@@ -1,0 +1,2127 @@
+PWKEY	AUTHOR_YEAR
+ACA_SPP-ACA_SPP	Turner 1984
+ACA_SPP-AUT_FLA	Kleppel 1993
+ACA_SPP-DIATOM	Kleppel 1993
+ACA_SPP-HET_FLA	Kleppel 1993
+ACA_SPP-MIX_FLA	Kleppel 1993
+ACA_SPP-PROZOO	Kleppel 1993
+ACT_G_SP-AUT_FLA	Acuña & Zamponi 1996
+ACT_G_SP-DIATOM	Acuña & Zamponi 1996
+ACT_G_SP-GAM_IND	Acuña & Zamponi 1996
+ACT_G_SP-HET_FLA	Acuña & Zamponi 1996
+ACT_G_SP-MAC_IND	Acuña & Zamponi 1996
+ACT_G_SP-POL_IND	Acuña & Zamponi 1996
+AGL_DIG-CAL_FIN	Matsakis & Conover 1991
+AGL_DIG-OIT_SIM	Matsakis & Conover 1991
+AGL_MAL-POL_IND	Fauchald & Jumars 1979
+AGO_CAT-CHL_ISL	Klimpel et al. 2003
+AGO_CAT-GAM_IND	Klimpel et al. 2003
+AGO_CAT-OPH_ACU	Klimpel et al. 2003
+AGO_CAT-OPH_BID	Klimpel et al. 2003
+AGO_CAT-OPH_SER	Klimpel et al. 2003
+AGO_CAT-OPH_SP	Klimpel et al. 2003
+AGO_CAT-OST_IND	Klimpel et al. 2003
+AGO_CAT-PAG_SP	Klimpel et al. 2003
+AGO_CAT-POL_IND	Klimpel et al. 2003
+AGO_CAT-THE_ABY	Klimpel et al. 2003
+AGO_CAT-THE_LIB	Klimpel et al. 2003
+AGO_CAT-THY_INE	Klimpel et al. 2003
+AGO_CAT-THY_LON	Klimpel et al. 2003
+ALL_ALL-ACA_SPP	Karnovsky & Hunt 2002
+ALL_ALL-ACA_SPP	Weslawski et al. 1999
+ALL_ALL-APH_GLA	Karnovsky & Hunt 2002
+ALL_ALL-BEN_LAR	Weslawski et al. 1999
+ALL_ALL-CAL_FIN	Weslawski et al. 1999
+ALL_ALL-CAL_GLA	Harding et al. 2009
+ALL_ALL-CAL_HYP	Harding et al. 2009
+ALL_ALL-CLI_LIM	Weslawski et al. 1999
+ALL_ALL-FI_LA	Weslawski et al. 1999
+ALL_ALL-FRI_BOR	Weslawski et al. 1999
+ALL_ALL-GAM_WIL	Lønne & Gabrielsen 1992
+ALL_ALL-LIM_HEL	Weslawski et al. 1999
+ALL_ALL-LIM_RET	Weslawski et al. 1999
+ALL_ALL-MEG_NOR	Bodini et al. 2009
+ALL_ALL-MET_LON	Weslawski et al. 1999
+ALL_ALL-MIC_SPP	Weslawski et al. 1999
+ALL_ALL-OIK_DIO	Weslawski et al. 1999
+ALL_ALL-OIK_SPP	Weslawski et al. 1999
+ALL_ALL-OIK_VAN	Weslawski et al. 1999
+ALL_ALL-OIT_SIM	Weslawski et al. 1999
+ALL_ALL-OIT_SIM	Pedersen & Falk 2001
+ALL_ALL-OIT_SPI	Weslawski et al. 1999
+ALL_ALL-ONC_BOR	Weslawski et al. 1999
+ALL_ALL-OST_IND	Weslawski et al. 1999
+ALL_ALL-PAR_NOR	Weslawski et al. 1999
+ALL_ALL-PAR_NOR	Pedersen & Falk 2001
+ALL_ALL-PAR_SPP	Weslawski et al. 1999
+ALL_ALL-PAR_SPP	Pedersen & Falk 2001
+ALL_ALL-PSE_SPP	Weslawski et al. 1999
+ALL_ALL-SAB_SP	Weslawski et al. 1999
+ALL_ALL-SAG_SPP	Weslawski et al. 1999
+ALL_ALL-THE_ABY	Weslawski et al. 1999
+ALL_ALL-THE_LIB	Weslawski et al. 1999
+ALL_ALL-THY_INE	Weslawski et al. 1999
+ALL_ALL-THY_LON	Weslawski et al. 1999
+ALL_ALL-THY_RAS	Weslawski et al. 1999
+AMB_HYP-CLU_HAR	Moura et al. 2005
+AMB_HYP-CLU_HAR	Dolgov 2005
+AMB_HYP-COT_MIC	Andriyashev 1954
+AMB_HYP-COT_MIC	Gonzáles et al. 2006
+AMB_HYP-FOR_IND	Moura et al. 2005
+AMB_HYP-FOR_IND	Dolgov 2005
+AMB_HYP-GAD_MOR	Andriyashev 1954
+AMB_HYP-GAD_MOR	Gonzáles et al. 2006
+AMB_HYP-GAD_MOR	Dolgov 2005
+AMB_HYP-HIP_PLA	Gonzáles et al. 2006
+AMB_HYP-LYC_ESM	Moura et al. 2005
+AMB_HYP-LYC_ESM	Andriyashev 1954
+AMB_HYP-LYC_EUD	Moura et al. 2005
+AMB_HYP-LYC_EUD	Andriyashev 1954
+AMB_HYP-LYC_GRA	Moura et al. 2005
+AMB_HYP-LYC_GRA	Andriyashev 1954
+AMB_HYP-LYC_PAL	Moura et al. 2005
+AMB_HYP-LYC_PAL	Andriyashev 1954
+AMB_HYP-LYC_RET	Moura et al. 2005
+AMB_HYP-LYC_RET	Andriyashev 1954
+AMB_HYP-LYC_ROS	Moura et al. 2005
+AMB_HYP-LYC_ROS	Andriyashev 1954
+AMB_HYP-LYC_SEM	Moura et al. 2005
+AMB_HYP-LYC_SEM	Andriyashev 1954
+AMB_HYP-MAC_BER	Andriyashev 1954
+AMB_HYP-MAC_BER	Gonzáles et al. 2006
+AMB_HYP-MAC_BER	Parsons 2005
+AMB_HYP-MAC_BER	Templeman 1982
+AMB_HYP-MAL_VIL	Moura et al. 2005
+AMB_HYP-MAL_VIL	Dolgov 2005
+AMB_HYP-MEL_AEG	Andriyashev 1954
+AMB_HYP-MEL_AEG	Gonzáles et al. 2006
+AMB_HYP-MIC_POU	Moura et al. 2005
+AMB_HYP-MIC_POU	Dolgov 2005
+AMB_HYP-PAN_BOR	Moura et al. 2005
+AMB_HYP-PAN_BOR	Dolgov 2005
+AMB_HYP-POL_IND	Andriyashev 1954
+AMB_HYP-POL_IND	Bjelland et al. 2000
+AMB_HYP-POL_IND	Gonzáles et al. 2006
+AMB_HYP-REI_HIP	Andriyashev 1954
+AMB_HYP-REI_HIP	Gonzáles et al. 2006
+AMB_HYP-ROS_SP	Andriyashev 1954
+AMB_HYP-ROS_SP	Gonzáles et al. 2006
+AMB_HYP-SEB_MAR	Andriyashev 1954
+AMB_HYP-SEB_MAR	Gonzáles et al. 2006
+AMB_HYP-SEB_MEN	Andriyashev 1954
+AMB_HYP-SEB_MEN	Gonzáles et al. 2006
+AMB_HYP-SEB_SPP	Andriyashev 1954
+AMB_HYP-SEB_SPP	Gonzáles et al. 2006
+AMB_HYP-THE_ABY	Andriyashev 1954
+AMB_HYP-THE_ABY	Gonzáles et al. 2006
+AMB_HYP-THE_LIB	Andriyashev 1954
+AMB_HYP-THE_LIB	Gonzáles et al. 2006
+AMB_HYP-THY_INE	Andriyashev 1954
+AMB_HYP-THY_INE	Gonzáles et al. 2006
+AMB_HYP-THY_LON	Andriyashev 1954
+AMB_HYP-THY_LON	Gonzáles et al. 2006
+AMB_RAD-AMB_RAD	Berestovsky 1989
+AMB_RAD-AMM_SPP	Parsons 2005
+AMB_RAD-AMM_SPP	Templeman 1982
+AMB_RAD-ANA_DEN	Parsons 2005
+AMB_RAD-ANA_DEN	Templeman 1982
+AMB_RAD-ANA_LUP	Parsons 2005
+AMB_RAD-ANA_LUP	Templeman 1982
+AMB_RAD-ANA_MIN	Gonzáles et al. 2006
+AMB_RAD-ARR_PHY	Templeman 1982
+AMB_RAD-ART_ATL	Parsons 2005
+AMB_RAD-ART_ATL	Templeman 1982
+AMB_RAD-BOR_SAI	Parsons 2005
+AMB_RAD-BOR_SAI	Templeman 1982
+AMB_RAD-BRO_BRO	Berestovsky 1989
+AMB_RAD-CHI_OPI	Gonzáles et al. 2006
+AMB_RAD-CLU_HAR	Parsons 2005
+AMB_RAD-CLU_HAR	Moura et al. 2005
+AMB_RAD-CLU_HAR	Parsons 2005
+AMB_RAD-CLU_HAR	Templeman 1982
+AMB_RAD-COT_MIC	Gonzáles et al. 2006
+AMB_RAD-CUC_FRO	Parsons 2005
+AMB_RAD-CUC_FRO	Templeman 1982
+AMB_RAD-ELE_ARC	Templeman 1982
+AMB_RAD-EUP_FLAM	Andriyashev 1954
+AMB_RAD-EUP_FLAM	Gonzáles et al. 2006
+AMB_RAD-GAD_MOR	Andriyashev 1954
+AMB_RAD-GAD_MOR	Gonzáles et al. 2006
+AMB_RAD-GAD_MOR	Dolgov 2005
+AMB_RAD-GAM_IND	Skjæraasen & Bergstad 2000
+AMB_RAD-GLY_CYN	Parsons 2005
+AMB_RAD-GLY_CYN	Templeman 1982
+AMB_RAD-GON_FAB	Parsons 2005
+AMB_RAD-GON_FAB	Moura et al. 2005
+AMB_RAD-HIP_PLA	Dolgov 2005
+AMB_RAD-HYA_SP	Parsons 2005
+AMB_RAD-HYA_SP	Templeman 1982
+AMB_RAD-LEP_DEC	Pedersen 1995
+AMB_RAD-LIP_FAB	Parsons 2005
+AMB_RAD-LIP_FAB	Templeman 1982
+AMB_RAD-LIP_GIB	Parsons 2005
+AMB_RAD-LIP_GIB	Templeman 1982
+AMB_RAD-LIP_MON	Parsons 2005
+AMB_RAD-LIP_MON	Templeman 1982
+AMB_RAD-LUM_LAM	Gonzáles et al. 2006
+AMB_RAD-LUM_SP	Templeman 1982
+AMB_RAD-LYC_ESM	Bjelland et al. 2000
+AMB_RAD-MAC_BER	Gonzáles et al. 2006
+AMB_RAD-MAL_VIL	Parsons 2005
+AMB_RAD-MAL_VIL	Templeman 1982
+AMB_RAD-MEG_NOR	Bjelland et al. 2000
+AMB_RAD-MEL_AEG	Parsons 2005
+AMB_RAD-MEL_AEG	Templeman 1982
+AMB_RAD-MER_MER	Skjæraasen & Bergstad 2000
+AMB_RAD-MET_LON	Berestovsky 1989
+AMB_RAD-MIC_POU	Skjæraasen & Bergstad 2000
+AMB_RAD-MIC_POU	Gonzáles et al. 2006
+AMB_RAD-OPH_SP	Parsons 2005
+AMB_RAD-OPH_SP	Templeman 1982
+AMB_RAD-PAG_SP	Parsons 2005
+AMB_RAD-PAG_SP	Templeman 1982
+AMB_RAD-PAN_BOR	Parsons 2005
+AMB_RAD-PAN_BOR	Moura et al. 2005
+AMB_RAD-PAN_BOR	Gonzáles et al. 2006
+AMB_RAD-PAR_CAM	Bodini et al. 2009
+AMB_RAD-POL_IND	Skjæraasen & Bergstad 2000
+AMB_RAD-POL_VIR	Parsons 2005
+AMB_RAD-POL_VIR	Templeman 1982
+AMB_RAD-PON_NOR	Skjæraasen & Bergstad 2000
+AMB_RAD-PYC_G_SP	Parsons 2005
+AMB_RAD-PYC_G_SP	Templeman 1982
+AMB_RAD-REI_HIP	Parsons 2005
+AMB_RAD-REI_HIP	Templeman 1982
+AMB_RAD-REI_HIP	Gonzáles et al. 2006
+AMB_RAD-RHA_SP	Templeman 1982
+AMB_RAD-ROS_SP	Templeman 1982
+AMB_RAD-SAB_SP	Templeman 1982
+AMB_RAD-SAB_SP	Dolgov 2005
+AMB_RAD-SEB_MAR	Berestovsky 1989
+AMB_RAD-SEB_MEN	Briskina 1939
+AMB_RAD-SEB_MEN	Gonzáles et al. 2006
+AMB_RAD-SEB_SPP	Parsons 2005
+AMB_RAD-SEB_SPP	Templeman 1982
+AMB_RAD-SEB_SPP	Gonzáles et al. 2006
+AMB_RAD-THE_ABY	Berestovsky 1989
+AMB_RAD-THE_LIB	Skjæraasen & Bergstad 2000
+AMB_RAD-THY_INE	Bjelland et al. 2000
+AMB_RAD-THY_LON	Berestovsky 1989
+AMB_RAD-THY_RAS	Berestovsky 1989
+AMB_RAD-TRI_ESM	Skjæraasen & Bergstad 2000
+AMB_RAD-TRI_MUR	Parsons 2005
+AMB_RAD-TRI_MUR	Templeman 1982
+AMB_RAD-TRI_NYB	Parsons 2005
+AMB_RAD-TRI_NYB	Templeman 1982
+AMB_RAD-ULC_OLR	Parsons 2005
+AMB_RAD-ULC_OLR	Templeman 1982
+AMM_SPP-CAL_FIN	Bodini et al. 2009
+AMM_SPP-CAL_FIN	Bogorov et al. 1939
+AMM_SPP-CAL_GLA	Bodini et al. 2009
+AMM_SPP-CAL_HYP	Bodini et al. 2009
+AMM_SPP-MET_LUC	Bogorov et al. 1939
+AMM_SPP-OIT_SIM	Bodini et al. 2009
+AMM_SPP-OIT_SIM	Bogorov et al. 1939
+ANA_DEN-ANA_LUP	Román et al. 2004
+ANA_DEN-AUR_AUR	Albikovskaya 1983
+ANA_DEN-BER_SP	Albikovskaya 1983
+ANA_DEN-BOL_INF	Albikovskaya 1983
+ANA_DEN-CAL_FIN	Bodini et al. 2009
+ANA_DEN-CAL_GLA	Bodini et al. 2009
+ANA_DEN-CAL_HYP	Bodini et al. 2009
+ANA_DEN-CTE_CRI	Albikovskaya 1983
+ANA_DEN-EUP_FLAM	Bodini et al. 2009
+ANA_DEN-GOR_SP	Albikovskaya 1983
+ANA_DEN-MEL_AEG	Eriksen 2012
+ANA_DEN-MER_OVU	Bodini et al. 2009
+ANA_DEN-MIC_POU	Gonzáles et al. 2006
+ANA_DEN-OPH_BID	Albikovskaya 1983
+ANA_DEN-OPH_SP	Albikovskaya 1983
+ANA_DEN-PAG_SP	Albikovskaya 1983
+ANA_DEN-PAN_BOR	Román et al. 2004
+ANA_DEN-POL_IND	Román et al. 2004
+ANA_DEN-SAB_SP	Bodini et al. 2009
+ANA_DEN-SAG_SPP	Román et al. 2004
+ANA_DEN-SEB_SPP	Román et al. 2004
+ANA_LUP-ASC_G_SP	Falk-Petersen et al. 2010
+ANA_LUP-AST_SP	Falk-Petersen et al. 2010
+ANA_LUP-BAL_SP	Falk-Petersen et al. 2010
+ANA_LUP-BUC_SP	Falk-Petersen et al. 2010
+ANA_LUP-BUC_SP	Nelson & Ross 1992
+ANA_LUP-CAL_FIN	Bodini et al. 2009
+ANA_LUP-CAL_GLA	Bodini et al. 2009
+ANA_LUP-CAL_HYP	Bodini et al. 2009
+ANA_LUP-CHL_ISL	Nelson & Ross 1992
+ANA_LUP-COL_SP	Nelson & Ross 1992
+ANA_LUP-CTE_CRI	Falk-Petersen et al. 2010
+ANA_LUP-FI_LA	Nelson & Ross 1992
+ANA_LUP-GAD_MOR	Albikovskaya 1983
+ANA_LUP-MAC_SP	Falk-Petersen et al. 2010
+ANA_LUP-MEG_NOR	Bodini et al. 2009
+ANA_LUP-OPH_BID	Albikovskaya 1983
+ANA_LUP-OPH_SP	Albikovskaya 1983
+ANA_LUP-PAG_SP	Nelson & Ross 1992
+ANA_LUP-PAN_BOR	Falk-Petersen et al. 2010
+ANA_LUP-POL_IND	Román et al. 2004
+ANA_LUP-PON_NOR	Rodríguez-Marín et al. 1994
+ANA_LUP-POR_G_SP	Falk-Petersen et al. 2010
+ANA_LUP-SAB_SP	Bodini et al. 2009
+ANA_LUP-STRO_SP	Falk-Petersen et al. 2010
+ANA_LUP-STRO_SP	Nelson & Ross 1992
+ANA_LUP-THY_INE	Bodini et al. 2009
+ANA_LUP-THY_LON	Bodini et al. 2009
+ANA_LUP-THY_RAS	Bodini et al. 2009
+ANA_MIN-BUC_SP	Albikovskaya 1983
+ANA_MIN-CAL_FIN	Bodini et al. 2009
+ANA_MIN-CAL_GLA	Bodini et al. 2009
+ANA_MIN-CAL_HYP	Bodini et al. 2009
+ANA_MIN-CTE_CRI	Albikovskaya 1983
+ANA_MIN-GAD_MOR	Templeman 1986
+ANA_MIN-MEG_NOR	Bodini et al. 2009
+ANA_MIN-MEL_AEG	Templeman 1986
+ANA_MIN-MIC_POU	Dolgov et al. 2010
+ANA_MIN-OPH_ACU	Albikovskaya 1983
+ANA_MIN-OPH_SP	Rodríguez-Marín et al. 1994
+ANA_MIN-PAG_SP	Bodini et al. 2009
+ANA_MIN-PAN_BOR	Rodríguez-Marín et al. 1994
+ANA_MIN-POL_IND	Román et al. 2004
+ANA_MIN-POR_G_SP	Rodríguez-Marín et al. 1994
+ANA_MIN-SAB_SP	Bodini et al. 2009
+ANA_MIN-SEB_SPP	Rodríguez-Marín et al. 1994
+ANA_MIN-STRO_SP	Templeman 1986
+ANA_MIN-STRO_SP	Albikovskaya 1983
+ANA_MIN-THY_INE	Bodini et al. 2009
+ANA_MIN-THY_LON	Bodini et al. 2009
+ANA_MIN-THY_RAS	Bodini et al. 2009
+ANI_MED-CAL_GLA	Chiperzak et al. 2003
+ANI_MED-ONC_BOR	Chiperzak et al. 2003
+ANI_MED-PSE_SPP	Chiperzak et al. 2003
+APH_GLA-BAC_IND	Poltermann 2001
+APH_GLA-DET_IND	Poltermann 2001
+APH_GLA-ICE_ALG	Bradstreet & Cross 1982
+APH_GLA-PHY_IND	Poltermann 2001
+APH_MAR-DET_IND	Fauchald & Jumars 1979
+APH_MAR-DIATOM	Fauchald & Jumars 1979
+APH_MAR-FI_LA	Fauchald & Jumars 1979
+APH_MAR-PHY_IND	Fauchald & Jumars 1979
+APH_MAR-PHY_IND	Gontikaki et al. 2011
+ARC_GLA-CAL_HYP	Süfke et al. 1998
+ARC_GLA-PSE_SPP	Süfke et al. 1998
+ARC_GLA-THE_ABY	Süfke et al. 1998
+ARC_GLA-THE_LIB	Süfke et al. 1998
+ARC_RIS-GON_FAB	Eriksen 2012
+ARR_PHY-DET_IND	Cochrane et al. 2012
+ARR_PHY-DET_IND	Sainte-Marie & Brunel 1983
+ART_ATL-GON_FAB	Bodini et al. 2009
+ART_ATL-MAL_VIL	Dolgov 2002
+ART_ATL-OPH_SP	Eriksen 2012
+ART_ATL-POL_IND	Källgren 2014
+ART_ATL-THE_ABY	Bodini et al. 2009
+ART_ATL-THE_LIB	Bodini et al. 2009
+ASC_G_SP-DET_IND	Petersen 2007
+ASC_G_SP-PHY_IND	Ruppert & Barnes 1994
+ASE_IND-AUT_FLA	Svavarsson et al. 1993
+ASE_IND-DET_IND	Svavarsson et al. 1993
+ASE_IND-DIATOM	Svavarsson et al. 1993
+ASE_IND-FOR_IND	Svavarsson et al. 1993
+ASE_IND-HET_FLA	Svavarsson et al. 1993
+AST_RUB-BAL_SP	Bodini et al. 2009
+AST_RUB-CRO_PAP	Bodini et al. 2009
+AST_RUB-OPH_ACU	Bodini et al. 2009
+AST_RUB-OPH_BID	Bodini et al. 2009
+AST_RUB-OPH_SP	Bodini et al. 2009
+AST_RUB-STRO_SP	Bodini et al. 2009
+AUR_AUR-CAL_FIN	Bodini et al. 2009
+AUR_AUR-CAL_GLA	Bodini et al. 2009
+AUR_AUR-CAL_HYP	Bodini et al. 2009
+AUR_AUR-MET_LON	Bodini et al. 2009
+AUR_AUR-MIC_SPP	Bodini et al. 2009
+AUR_AUR-OIT_SIM	Bodini et al. 2009
+BAL_ACU-AMM_SPP	Haug et al. 1995
+BAL_ACU-BEN_GLA	Haug et al. 1995
+BAL_ACU-BOR_SAI	Haug et al. 1995
+BAL_ACU-CLI_LIM	Bodini et al. 2009
+BAL_ACU-CLU_HAR	Haug et al. 1995
+BAL_ACU-FI_LA	Nøttestad & Olsen 2004
+BAL_ACU-GAD_MOR	Haug et al. 1995
+BAL_ACU-GLY_CYN	Haug et al. 1995
+BAL_ACU-LYC_ESM	Haug et al. 1995
+BAL_ACU-LYC_RET	Haug et al. 1995
+BAL_ACU-LYC_SEM	Haug et al. 1995
+BAL_ACU-MAL_VIL	Haug et al. 1995
+BAL_ACU-MEG_NOR	Haug et al. 1995
+BAL_ACU-MEL_AEG	Haug et al. 1995
+BAL_ACU-MIC_POU	Haug et al. 1995
+BAL_ACU-POL_VIR	Haug et al. 1995
+BAL_ACU-REI_HIP	Bodini et al. 2009
+BAL_ACU-SEB_MEN	Bodini et al. 2009
+BAL_ACU-SEB_SPP	Haug et al. 1995
+BAL_ACU-THE_ABY	Haug et al. 1995
+BAL_ACU-THE_LIB	Haug et al. 1995
+BAL_ACU-THY_INE	Haug et al. 1995
+BAL_ACU-THY_LON	Haug et al. 1995
+BAL_ACU-THY_RAS	Haug et al. 1995
+BAL_PHY-AMM_SPP	Haug et al. 1995
+BAL_PHY-BOR_SAI	Flinn et al. 2002
+BAL_PHY-BOR_SAI	Aguilar 2009
+BAL_PHY-BOR_SAI	Nøttestad & Olsen 2004
+BAL_PHY-CAL_FIN	Flinn et al. 2002
+BAL_PHY-CAL_FIN	Aguilar 2009
+BAL_PHY-CAL_GLA	Flinn et al. 2002
+BAL_PHY-CAL_GLA	Aguilar 2009
+BAL_PHY-CAL_HYP	Flinn et al. 2002
+BAL_PHY-CAL_HYP	Aguilar 2009
+BAL_PHY-CLI_LIM	Bodini et al. 2009
+BAL_PHY-CLU_HAR	Aguilar 2009
+BAL_PHY-CLU_HAR	Nøttestad & Olsen 2004
+BAL_PHY-FI_LA	Aguilar 2009
+BAL_PHY-FI_LA	Nøttestad & Olsen 2004
+BAL_PHY-FUL_GLA	Aguilar 2009
+BAL_PHY-FUL_GLA	Nøttestad & Olsen 2004
+BAL_PHY-GAD_MOR	Haug et al. 1995
+BAL_PHY-GLY_CYN	Haug et al. 1995
+BAL_PHY-GON_FAB	Flinn et al. 2002
+BAL_PHY-GON_FAB	Nøttestad & Olsen 2004
+BAL_PHY-MAL_VIL	Aguilar 2009
+BAL_PHY-MAL_VIL	Nøttestad & Olsen 2004
+BAL_PHY-MEG_NOR	Flinn et al. 2002
+BAL_PHY-MEG_NOR	Aguilar 2009
+BAL_PHY-MEL_AEG	Haug et al. 1995
+BAL_PHY-MIC_POU	Haug et al. 1995
+BAL_PHY-POL_VIR	Haug et al. 1995
+BAL_PHY-SEB_SPP	Haug et al. 1995
+BAL_PHY-THE_ABY	Haug et al. 1995
+BAL_PHY-THE_ABY	Aguilar 2009
+BAL_PHY-THE_LIB	Haug et al. 1995
+BAL_PHY-THE_LIB	Aguilar 2009
+BAL_PHY-THY_INE	Flinn et al. 2002
+BAL_PHY-THY_INE	Aguilar 2009
+BAL_PHY-THY_LON	Flinn et al. 2002
+BAL_PHY-THY_LON	Aguilar 2009
+BAL_PHY-THY_RAS	Flinn et al. 2002
+BAL_PHY-THY_RAS	Aguilar 2009
+BAL_SP-DET_IND	Bodini et al. 2009
+BAT_SPI-ANA_MIN	Gonzáles et al. 2006
+BAT_SPI-GAM_IND	Bjelland et al. 2000
+BAT_SPI-HIP_PLA	Gonzáles et al. 2006
+BAT_SPI-LUM_LAM	Gonzáles et al. 2006
+BAT_SPI-MAC_BER	Gonzáles et al. 2006
+BAT_SPI-MEG_NOR	Bjelland et al. 2000
+BAT_SPI-MEL_AEG	Gonzáles et al. 2006
+BAT_SPI-MIC_POU	Gonzáles et al. 2006
+BAT_SPI-PAN_BOR	Dolgov 2005
+BAT_SPI-POL_IND	Dolgov 2005
+BAT_SPI-REI_HIP	Gonzáles et al. 2006
+BAT_SPI-SEB_MAR	Bodini et al. 2009
+BAT_SPI-SEB_MEN	Bodini et al. 2009
+BAT_SPI-SEB_SPP	Dolgov 2005
+BAT_SPI-THY_INE	Bjelland et al. 2000
+BAT_SPI-THY_INE	Bergstad et al. 1999
+BEN_GLA-GAM_IND	FishBase
+BEN_GLA-OST_IND	Andriyashev 1954
+BER_SP-ACA_SPP	Swanberg 1974
+BER_SP-BOL_INF	Swanberg 1974
+BER_SP-CAL_FIN	Swanberg 1974
+BER_SP-MIC_SPP	Greve 1970
+BER_SP-OIT_SIM	Swanberg 1974
+BER_SP-OIT_SPI	Swanberg 1974
+BOL_INF-CAL_FIN	Bodini et al. 2009
+BOL_INF-CAL_GLA	Bodini et al. 2009
+BOL_INF-CAL_HYP	Bodini et al. 2009
+BOL_INF-MET_LON	Bodini et al. 2009
+BOL_INF-MIC_SPP	Bodini et al. 2009
+BOL_INF-OIT_SIM	Bodini et al. 2009
+BOL_INF-PSE_SPP	Bodini et al. 2009
+BOR_SAI-APH_GLA	Lønne & Gulliksen 1989
+BOR_SAI-CAL_FIN	Lønne & Gulliksen 1989
+BOR_SAI-CAL_GLA	Lønne & Gulliksen 1989
+BOR_SAI-CAL_HYP	Lønne & Gulliksen 1989
+BOR_SAI-GAM_IND	Lønne & Gulliksen 1989
+BOR_SAI-GAM_WIL	Chiperzak et al. 2003
+BOR_SAI-LIM_HEL	Lønne & Gulliksen 1989
+BOR_SAI-MAL_VIL	Dolgov 2002
+BOR_SAI-MEG_NOR	Ajiad & Gjøsæter 1990
+BOR_SAI-ONI_GLA	Lønne & Gulliksen 1989
+BOR_SAI-ONI_NAN	Chiperzak et al. 2003
+BOR_SAI-OST_IND	Lønne & Gulliksen 1989
+BOR_SAI-THE_ABY	Lønne & Gulliksen 1989
+BOR_SAI-THE_LIB	Lønne & Gulliksen 1989
+BOR_SAI-THY_INE	Bodini et al. 2009
+BOR_SAI-THY_LON	Bodini et al. 2009
+BOR_SAI-THY_RAS	Bodini et al. 2009
+BRO_BRO-GAM_IND	Gundersen 1996
+BRO_BRO-SEB_MAR	Bodini et al. 2009
+BRO_BRO-SEB_MEN	Gundersen 1996
+BRO_BRO-SEB_SPP	Gundersen 1996
+CAL_FIN-BEN_LAR	Turner 1984
+CAL_FIN-CAL_FIN	Neuheimer et al. 2010
+CAL_FIN-DET_IND	Turner 1984
+CAL_FIN-HET_FLA	Friis Moeller et al. 2012
+CAL_FIN-PHY_IND	Hirche & Bohrer 1987
+CAL_FIN-PHY_IND	Mauchline 1998
+CAL_FIN-PROZOO	Gissel Nielsen 2005
+CAL_GLA-PROZOO	Gissel Nielsen 2005
+CAL_HYP-PROZOO	Gissel Nielsen 2005
+CAR_SPP-MAL_VIL	Dolgov 2002
+CAR_SPP-PAN_BOR	Falk-Petersen et al. 1988
+CAR_SPP-SCL_SP	Labai et al. 2003
+CAR_SPP-THE_ABY	Briskina 1939
+CAR_SPP-THE_LIB	Briskina 1939
+CHI_OPI-AST_SP	Agnalt 2011
+CHI_OPI-BRY_IND	Agnalt 2011
+CHI_OPI-CAL_FIN	Agnalt 2011
+CHI_OPI-CHI_OPI	Lovrich & Bernard 1997
+CHI_OPI-CHO_SP	Squires & Dawe 2003
+CHI_OPI-DET_IND	Squires & Dawe 2003
+CHI_OPI-DIATOM	Squires & Dawe 2003
+CHI_OPI-EUM_SPI	Squires & Dawe 2003
+CHI_OPI-FOR_IND	Squires & Dawe 2003
+CHI_OPI-GAL_SP	Agnalt 2011
+CHI_OPI-HYA_SP	Agnalt 2011
+CHI_OPI-MAC_SP	Squires & Dawe 2003
+CHI_OPI-MAL_SAR	Agnalt 2011
+CHI_OPI-MAL_VIL	Squires & Dawe 2003
+CHI_OPI-MYR_HEE	Agnalt 2011
+CHI_OPI-OIT_SIM	Agnalt 2011
+CHI_OPI-OIT_SPI	Agnalt 2011
+CHI_OPI-OPH_ACU	Squires & Dawe 2003
+CHI_OPI-OPH_BID	Squires & Dawe 2003
+CHI_OPI-OPH_BOR	Squires & Dawe 2003
+CHI_OPI-OPH_SER	Squires & Dawe 2003
+CHI_OPI-OPH_SP	Squires & Dawe 2003
+CHI_OPI-PAG_SP	Agnalt 2011
+CHI_OPI-PAN_BOR	Squires & Dawe 2003
+CHI_OPI-PHA_STR	Agnalt 2011
+CHI_OPI-POL_IND	Squires & Dawe 2003
+CHI_OPI-POR_G_SP	Squires & Dawe 2003
+CHI_OPI-SIM_GRE	Agnalt 2011
+CHI_OPI-SPI_TYP	Agnalt 2011
+CHI_OPI-STRO_SP	Squires & Dawe 2003
+CHI_OPI-YOL_SOL	Agnalt 2011
+CIO_INT-AUT_FLA	Sigsgaard et al. 2003
+CIO_INT-DIATOM	Sigsgaard et al. 2003
+CIO_INT-HET_FLA	Sigsgaard et al. 2003
+CIR_IND-DET_IND	Pardo & Amaral 2004
+CIR_IND-DIATOM	Pardo & Amaral 2004
+CIR_IND-FOR_IND	Pardo & Amaral 2004
+CIR_IND-PROZOO	Pardo & Amaral 2004
+CLI_LIM-LIM_HEL	Lalli 1970
+CLU_HAR-ACA_SPP	Boldovski 1941
+CLU_HAR-AGL_DIG	Boldovski 1941
+CLU_HAR-AMM_SPP	Boldovski 1941
+CLU_HAR-BEN_LAR	Boldovski 1941
+CLU_HAR-BER_SP	Boldovski 1941
+CLU_HAR-CAL_FIN	Desilva 1973
+CLU_HAR-CAL_FIN	Prokopchuk & Sentyabov 2006
+CLU_HAR-CAL_FIN	Moura et al. 2005
+CLU_HAR-CAL_GLA	Bodini et al. 2009
+CLU_HAR-CAL_HYP	Desilva 1973
+CLU_HAR-CAL_HYP	Prokopchuk & Sentyabov 2006
+CLU_HAR-CAL_HYP	Moura et al. 2005
+CLU_HAR-CLU_HAR	Prokopchuk & Sentyabov 2006
+CLU_HAR-DIATOM	Boldovski 1941
+CLU_HAR-FRI_BOR	Boldovski 1941
+CLU_HAR-GAD_MOR	Boldovski 1941
+CLU_HAR-HET_FLA	Boldovski 1941
+CLU_HAR-LIM_RET	Prokopchuk & Sentyabov 2006
+CLU_HAR-MAL_VIL	Dolgov 2002
+CLU_HAR-MEG_NOR	Desilva 1973
+CLU_HAR-MEG_NOR	Prokopchuk & Sentyabov 2006
+CLU_HAR-MEG_NOR	Moura et al. 2005
+CLU_HAR-MET_LON	Boldovski 1941
+CLU_HAR-MET_LUC	Boldovski 1941
+CLU_HAR-MYO_SCO	Boldovski 1941
+CLU_HAR-OIK_SPP	Boldovski 1941
+CLU_HAR-OIK_SPP	Prokopchuk & Sentyabov 2006
+CLU_HAR-OIK_SPP	Moura et al. 2005
+CLU_HAR-OIK_VAN	Boldovski 1941
+CLU_HAR-OIT_SIM	Boldovski 1941
+CLU_HAR-ONC_BOR	Boldovski 1941
+CLU_HAR-PAR_NOR	Boldovski 1941
+CLU_HAR-PAR_NOR	Prokopchuk & Sentyabov 2006
+CLU_HAR-PAR_NOR	Moura et al. 2005
+CLU_HAR-PHY_IND	Boldovski 1941
+CLU_HAR-PSE_SPP	Boldovski 1941
+CLU_HAR-SAG_SPP	Boldovski 1941
+CLU_HAR-THE_ABY	Boldovski 1941
+CLU_HAR-THE_ABY	Prokopchuk & Sentyabov 2006
+CLU_HAR-THE_ABY	Moura et al. 2005
+CLU_HAR-THE_LIB	Prokopchuk & Sentyabov 2006
+CLU_HAR-THE_LIB	Moura et al. 2005
+CLU_HAR-THY_INE	Boldovski 1941
+CLU_HAR-THY_LON	Boldovski 1941
+CLU_HAR-THY_LON	Prokopchuk & Sentyabov 2006
+CLU_HAR-THY_LON	Moura et al. 2005
+CLU_HAR-THY_RAS	Boldovski 1941
+COL_SP-DET_IND	Jones et al. 1998
+COT_MIC-OPH_ACU	Eriksen 2012
+COT_MIC-OPH_SP	Eriksen 2012
+COT_MIC-POL_IND	Bjelland et al. 2000
+COT_MIC-PYC_G_SP	Bjelland et al. 2000
+CRO_PAP-AST_RUB	Bodini et al. 2009
+CRO_PAP-BAL_SP	Bodini et al. 2009
+CRO_PAP-OPH_ACU	Bodini et al. 2009
+CRO_PAP-OPH_BID	Bodini et al. 2009
+CRO_PAP-OPH_SP	Bodini et al. 2009
+CRO_PAP-STRO_SP	Bodini et al. 2009
+CTE_CRI-DET_IND	Shick et al. 1981
+CUC_FRO-DET_IND	Hamel & Mercier 1998
+CUC_FRO-DIATOM	Hamel & Mercier 1998
+CUC_FRO-PHY_IND	Hamel & Mercier 1998
+CYA_CAP-ACA_SPP	Purcell 1991
+CYA_CAP-AGL_DIG	Purcell 1991
+CYA_CAP-AUR_AUR	Plotnikova 1961
+CYA_CAP-BER_SP	Plotnikova 1961
+CYA_CAP-BOL_INF	Plotnikova 1961
+CYA_CAP-CAL_FIN	Martinussen & Båmstedt 1999
+CYA_CAP-FI_LA	Martinussen & Båmstedt 1999
+CYA_CAP-MIC_SPP	Martinussen & Båmstedt 1999
+CYA_CAP-OIK_DIO	Fancett 1988
+CYA_CAP-OIK_SPP	Fancett 1988
+CYA_CAP-OIT_SIM	Martinussen & Båmstedt 1999
+CYA_CAP-ONC_BOR	Martinussen & Båmstedt 1999
+CYA_CAP-PSE_SPP	Martinussen & Båmstedt 1999
+CYA_CAP-SAR_SPP	Hamner 1983
+CYC_LUM-APH_GLA	Bodini et al. 2009
+CYC_LUM-GAM_WIL	Bodini et al. 2009
+CYC_LUM-ONI_GLA	Bodini et al. 2009
+CYC_LUM-ONI_NAN	Bodini et al. 2009
+CYC_LUM-OPH_ACU	Bodini et al. 2009
+CYC_LUM-OPH_SP	Bodini et al. 2009
+CYC_LUM-THE_LIB	Eriksen 2012
+CYS_CRI-AMM_SPP	Haug et al. 2004
+CYS_CRI-AMM_SPP	Haug et al. 2007
+CYS_CRI-ANA_DEN	Bodini et al. 2009
+CYS_CRI-ANA_LUP	Bodini et al. 2009
+CYS_CRI-ANA_MIN	Bodini et al. 2009
+CYS_CRI-BOR_SAI	Haug et al. 2004
+CYS_CRI-BOR_SAI	Haug et al. 2007
+CYS_CRI-CLU_HAR	Haug et al. 2007
+CYS_CRI-GAD_MOR	Haug et al. 2004
+CYS_CRI-GAD_MOR	Haug et al. 2007
+CYS_CRI-GON_FAB	Haug et al. 2004
+CYS_CRI-GON_FAB	Haug et al. 2007
+CYS_CRI-HIP_PLA	Haug et al. 2004
+CYS_CRI-LIP_FAB	Haug et al. 2004
+CYS_CRI-LIP_GIB	Haug et al. 2004
+CYS_CRI-LIP_MON	Haug et al. 2004
+CYS_CRI-MAL_VIL	Haug et al. 2004
+CYS_CRI-MAL_VIL	Haug et al. 2007
+CYS_CRI-MEL_AEG	Haug et al. 2007
+CYS_CRI-PAN_BOR	Hammill & Stenson 2000
+CYS_CRI-SEB_MAR	Haug et al. 2007
+CYS_CRI-SEB_MEN	Bodini et al. 2009
+CYS_CRI-THE_ABY	Haug et al. 2004
+CYS_CRI-THE_LIB	Haug et al. 2004
+CYS_CRI-THY_INE	Haug et al. 2004
+CYS_CRI-THY_LON	Haug et al. 2004
+CYS_CRI-THY_RAS	Haug et al. 2004
+DEL_LEU-AMM_SPP	Haug et al. 2004
+DEL_LEU-ANI_MED	Dahl et al. 2000
+DEL_LEU-ARC_GLA	Dahl et al. 2000
+DEL_LEU-BOR_SAI	Kovacs et al. 2009
+DEL_LEU-BOR_SAI	Wolkers et al. 2006
+DEL_LEU-CLU_HAR	Kovacs et al. 2009
+DEL_LEU-GAD_MOR	Bodini et al. 2009
+DEL_LEU-GON_FAB	Wolkers et al. 2006
+DEL_LEU-GON_FAB	Laidre & Heide-Jørgensen 2005
+DEL_LEU-HYA_SP	Dahl et al. 2000
+DEL_LEU-MAL_VIL	Kovacs et al. 2009
+DEL_LEU-PAN_BOR	Kovacs et al. 2009
+DEL_LEU-REI_HIP	Wolkers et al. 2006
+DEL_LEU-SAB_SP	Dahl et al. 2000
+DEL_LEU-SCL_SP	Sergeant 1973
+DEL_LEU-SEB_MAR	Bodini et al. 2009
+DEL_LEU-SEB_MEN	Wolkers et al. 2006
+DEL_LEU-SEB_SPP	Wolkers et al. 2006
+ELE_ARC-DET_IND	Shunatova & Ostrovsky 2001
+ELE_ARC-DET_IND	Markham & Ryland 1987
+ELE_ARC-DIATOM	Markham & Ryland 1987
+ELE_ARC-PHY_IND	Shunatova & Ostrovsky 2001
+ELE_ARC-PHY_IND	Markham & Ryland 1987
+ENC_CIM-POL_IND	Keats & Steele 1990
+ERI_BAR-ACT_G_SP	Finley & Evans 1983
+ERI_BAR-ARC_GLA	Finley & Evans 1983
+ERI_BAR-AST_SP	Finley & Evans 1983
+ERI_BAR-BOR_SAI	Hjelset et al. 1999
+ERI_BAR-BUC_SP	Finley & Evans 1983
+ERI_BAR-CUC_FRO	Finley & Evans 1983
+ERI_BAR-EUM_SPI	Hjelset et al. 1999
+ERI_BAR-FI_LA	Hjelset et al. 1999
+ERI_BAR-GAD_ARG	Hjelset et al. 1999
+ERI_BAR-GAD_MOR	Hjelset et al. 1999
+ERI_BAR-GON_FAB	Finley & Evans 1983
+ERI_BAR-HIP_HIP	Bodini et al. 2009
+ERI_BAR-HIP_PLA	Hjelset et al. 1999
+ERI_BAR-HYA_SP	Hjelset et al. 1999
+ERI_BAR-LUM_FAB	Hjelset et al. 1999
+ERI_BAR-LUM_LAM	Hjelset et al. 1999
+ERI_BAR-LYC_ESM	Finley & Evans 1983
+ERI_BAR-LYC_GRA	Finley & Evans 1983
+ERI_BAR-LYC_RET	Finley & Evans 1983
+ERI_BAR-LYC_SEM	Finley & Evans 1983
+ERI_BAR-MAC_SP	Finley & Evans 1983
+ERI_BAR-MOL_BOR	Finley & Evans 1983
+ERI_BAR-MYO_SCO	Hjelset et al. 1999
+ERI_BAR-MYO_SCO	Finley & Evans 1983
+ERI_BAR-OPH_SP	Finley & Evans 1983
+ERI_BAR-PAG_SP	Bodini et al. 2009
+ERI_BAR-PAN_BOR	Hjelset et al. 1999
+ERI_BAR-POL_IND	Finley & Evans 1983
+ERI_BAR-POLY_IND	Hjelset et al. 1999
+ERI_BAR-ROS_SP	Hjelset et al. 1999
+ERI_BAR-SAB_SP	Hjelset et al. 1999
+ERI_BAR-SCA_INF	Hjelset et al. 1999
+ERI_BAR-SCL_SP	Finley & Evans 1983
+ERI_BAR-STI_TRE	Finley & Evans 1983
+ERY_SP-AUT_FLA	Cartes & Sorbe 1998
+ERY_SP-BAC_IND	Cartes & Sorbe 1998
+ERY_SP-DET_IND	Cartes & Sorbe 1998
+ERY_SP-DIATOM	Cartes & Sorbe 1998
+ERY_SP-FOR_IND	Cartes & Sorbe 1998
+ERY_SP-HET_FLA	Cartes & Sorbe 1998
+ERY_SP-PHY_IND	Cartes & Sorbe 1998
+ERY_SP-THE_ABY	Cartes & Sorbe 1998
+ERY_SP-THE_LIB	Cartes & Sorbe 1998
+ERY_SP-THY_INE	Cartes & Sorbe 1998
+ETM_SPI-GAD_ARG	Mauchline & Gordon 1983
+ETM_SPI-MAU_MUE	Mauchline & Gordon 1983
+ETM_SPI-MEG_NOR	Mauchline & Gordon 1983
+ETM_SPI-MIC_POU	Mauchline & Gordon 1983
+ETM_SPI-NEM_MEG	Mauchline & Gordon 1983
+EUK_HAM-MET_LON	Øresland 1990
+EUK_HAM-MET_LUC	Øresland 1990
+EUK_HAM-MIC_SPP	Øresland 1990
+EUK_HAM-OIT_SIM	Øresland 1990
+EUK_HAM-OIT_SPI	Øresland 1990
+EUK_HAM-PAR_SPP	Øresland 1990
+EUK_HAM-POL_IND	Øresland 1990
+EUK_HAM-SAG_SPP	Øresland 1990
+EUM_SPI-GAM_WIL	Roshchin 2006
+EUM_SPI-PAN_BOR	Roshchin 2006
+EUM_SPI-POL_IND	Roshchin 2006
+EUM_SPI-THE_ABY	Roshchin 2006
+EUM_SPI-THE_LIB	Roshchin 2006
+EUM_SPI-THE_LIB	Berge & Nahrgang 2013
+EUM_SPI-THY_INE	Roshchin 2006
+EUP_FLAM-CAL_FIN	Bodini et al. 2009
+EUP_FLAM-CAL_GLA	Bodini et al. 2009
+EUP_FLAM-CAL_HYP	Bodini et al. 2009
+EUP_FLAM-MET_LON	Bodini et al. 2009
+EUP_FLAM-MIC_SPP	Bodini et al. 2009
+EUP_FLAM-OIT_SIM	Bodini et al. 2009
+EUP_FLAM-PSE_SPP	Bodini et al. 2009
+FOR_IND-BAC_IND	Lipps & Valentine 2007
+FOR_IND-DIATOM	Lipps & Valentine 2007
+FRA_ARC-AMM_SPP	Falk et al. 1992
+FRA_ARC-BEN_GLA	Falk et al. 1992
+FRA_ARC-CLU_HAR	Durant et al. 2003
+FRA_ARC-MAL_VIL	Falk et al. 1992
+FRA_ARC-MIC_POU	Philips et al. 1999
+FRA_ARC-POL_IND	Falk et al. 1992
+FRA_ARC-POL_VIR	Barrett et al. 1987
+FRA_ARC-THE_ABY	Falk et al. 1992
+FRA_ARC-THY_INE	Falk et al. 1992
+FRA_ARC-TRI_ESM	Falk et al. 1992
+FRI_BOR-PHY_IND	Pasternak et al. 2008
+FUL_GLA-AMM_SPP	Philips et al. 1999
+FUL_GLA-APH_GLA	Byers et al. 2010
+FUL_GLA-ARG_SP	Philips et al. 1999
+FUL_GLA-BOR_SAI	Erikstad 1990
+FUL_GLA-CAL_FIN	Philips et al. 1999
+FUL_GLA-CAL_HYP	Philips et al. 1999
+FUL_GLA-CLU_HAR	Ojowski et al. 2001
+FUL_GLA-FI_LA	Philips et al. 1999
+FUL_GLA-GAD_MOR	Ojowski et al. 2001
+FUL_GLA-GAM_WIL	Philips et al. 1999
+FUL_GLA-GON_FAB	Erikstad 1990
+FUL_GLA-HIP_PLA	Ojowski et al. 2001
+FUL_GLA-LIM_LIM	Ojowski et al. 2001
+FUL_GLA-MAL_VIL	Ojowski et al. 2001
+FUL_GLA-MEG_NOR	Philips et al. 1999
+FUL_GLA-MEL_AEG	Philips et al. 1999
+FUL_GLA-MEL_AEG	Ojowski et al. 2001
+FUL_GLA-MER_MER	Philips et al. 1999
+FUL_GLA-ONI_GLA	Byers et al. 2010
+FUL_GLA-ONI_NAN	Byers et al. 2010
+FUL_GLA-OST_IND	Philips et al. 1999
+FUL_GLA-PAG_SP	Philips et al. 1999
+FUL_GLA-PAN_BOR	Philips et al. 1999
+FUL_GLA-SCO_SCO	Ojowski et al. 2001
+FUL_GLA-SEB_MAR	Erikstad 1990
+FUL_GLA-SEB_MEN	Erikstad 1990
+FUL_GLA-SEB_SPP	Philips et al. 1999
+FUL_GLA-THE_ABY	Philips et al. 1999
+FUL_GLA-THE_ABY	Byers et al. 2010
+FUL_GLA-THE_LIB	Philips et al. 1999
+FUL_GLA-THY_INE	Philips et al. 1999
+FUL_GLA-TRI_ESM	Ojowski et al. 2001
+GAD_ARG-CAL_FIN	Albert 1993
+GAD_ARG-CAL_HYP	Mattson 1981
+GAD_ARG-EUK_HAM	Albert 1993
+GAD_ARG-HIP_PLA	Mehl 1991
+GAD_ARG-MEG_NOR	Albert 1993
+GAD_ARG-MET_LON	Albert 1993
+GAD_ARG-MET_LUC	Mattson 1981
+GAD_ARG-PAR_NOR	Mattson 1981
+GAD_MOR-ACA_SPP	Mironova 1957
+GAD_MOR-ACT_G_SP	Klemetsen 1982
+GAD_MOR-AGL_DIG	Satsepin & Petrova 1934-1938
+GAD_MOR-AMM_SPP	Mironova 1957
+GAD_MOR-ANA_DEN	Mehl 1991
+GAD_MOR-ANA_LUP	Rodríguez-Marín et al. 1994
+GAD_MOR-ANA_LUP	Mehl 1991
+GAD_MOR-ANA_MIN	Rodríguez-Marín et al. 1994
+GAD_MOR-ANA_MIN	Mehl 1991
+GAD_MOR-ART_ATL	Mehl 1991
+GAD_MOR-AST_SP	Mehl 1991
+GAD_MOR-AUR_AUR	Satsepin & Petrova 1934-1938
+GAD_MOR-BAL_SP	Mironova 1957
+GAD_MOR-BEN_GLA	dos Santos & Falk-Petersen 1989
+GAD_MOR-BER_SP	Satsepin & Petrova 1934-1938
+GAD_MOR-BOL_INF	Satsepin & Petrova 1934-1938
+GAD_MOR-BOR_SAI	Andriyashev 1954
+GAD_MOR-BRO_BRO	Klemetsen 1982
+GAD_MOR-BUC_SP	Klemetsen 1982
+GAD_MOR-CAL_FIN	Mironova 1957
+GAD_MOR-CAL_GLA	Bodini et al. 2009
+GAD_MOR-CAL_HYP	Klemetsen 1982
+GAD_MOR-CAR_SPP	Satsepin & Petrova 1934-1938
+GAD_MOR-CHI_OPI	Rodríguez-Marín et al. 1994
+GAD_MOR-CLU_HAR	dos Santos & Falk-Petersen 1989
+GAD_MOR-CTE_CRI	Satsepin & Petrova 1934-1938
+GAD_MOR-CUC_FRO	Satsepin & Petrova 1934-1938
+GAD_MOR-ERY_SP	Mironova 1957
+GAD_MOR-FI_LA	Høines & Bergstad 1999
+GAD_MOR-GAD_MOR	Kanapathippillai et al. 1994
+GAD_MOR-GAM_IND	Klemetsen 1982
+GAD_MOR-GAS_ACU	Mehl 1991
+GAD_MOR-GON_FAB	Mehl 1991
+GAD_MOR-GYM_TRI	Mehl 1991
+GAD_MOR-HIP_PLA	Parsons 2005
+GAD_MOR-HIP_PLA	Templeman 1982
+GAD_MOR-HYA_SP	Kanapathippillai et al. 1994
+GAD_MOR-HYA_SP	Høines & Bergstad 1999
+GAD_MOR-ICE_SPP	Mehl 1991
+GAD_MOR-LEP_DEC	Satsepin & Petrova 1934-1938
+GAD_MOR-LIM_LIM	Satsepin & Petrova 1934-1938
+GAD_MOR-LIP_FAB	Satsepin & Petrova 1934-1938
+GAD_MOR-LIP_GIB	Satsepin & Petrova 1934-1938
+GAD_MOR-LIP_MON	Satsepin & Petrova 1934-1938
+GAD_MOR-LUM_LAM	Kanapathippillai et al. 1994
+GAD_MOR-LUM_LAM	Mehl 1991
+GAD_MOR-LUM_LAM	Andriyashev 1954
+GAD_MOR-LUM_SP	Mehl 1991
+GAD_MOR-LUM_SP	Klemetsen 1982
+GAD_MOR-LYC_ESM	Mehl 1991
+GAD_MOR-LYC_ESM	Andriyashev 1954
+GAD_MOR-LYC_EUD	Satsepin & Petrova 1934-1938
+GAD_MOR-LYC_GRA	Satsepin & Petrova 1934-1938
+GAD_MOR-LYC_PAL	Satsepin & Petrova 1934-1938
+GAD_MOR-LYC_ROS	Satsepin & Petrova 1934-1938
+GAD_MOR-MAL_SAR	Klemetsen 1982
+GAD_MOR-MAL_VIL	dos Santos & Falk-Petersen 1989
+GAD_MOR-MAU_MUE	dos Santos & Falk-Petersen 1989
+GAD_MOR-MAU_MUE	Mehl 1991
+GAD_MOR-MEG_NOR	dos Santos & Falk-Petersen 1989
+GAD_MOR-MEL_AEG	Mehl 1991
+GAD_MOR-MEL_AEG	Andriyashev 1954
+GAD_MOR-MET_LON	Klemetsen 1982
+GAD_MOR-MIC_POU	Mehl 1991
+GAD_MOR-MYO_SCO	Mehl 1991
+GAD_MOR-OIK_SPP	Satsepin & Petrova 1934-1938
+GAD_MOR-OIT_SIM	Mironova 1957
+GAD_MOR-OPH_ACU	Kanapathippillai et al. 1994
+GAD_MOR-OPH_BID	Satsepin & Petrova 1934-1938
+GAD_MOR-OPH_SER	Satsepin & Petrova 1934-1938
+GAD_MOR-OPH_SP	Klemetsen 1982
+GAD_MOR-OST_IND	Mironova 1957
+GAD_MOR-PAG_SP	Andriyashev 1954
+GAD_MOR-PAN_BOR	dos Santos & Falk-Petersen 1989
+GAD_MOR-PLE_PLA	Satsepin & Petrova 1934-1938
+GAD_MOR-POL_IND	Klemetsen 1982
+GAD_MOR-POL_VIR	Mehl 1991
+GAD_MOR-POR_G_SP	Mehl 1991
+GAD_MOR-PSE_SPP	Mironova 1957
+GAD_MOR-PYC_G_SP	Mehl 1991
+GAD_MOR-REI_HIP	Mehl 1991
+GAD_MOR-ROS_SP	Høines & Bergstad 1999
+GAD_MOR-SAB_SP	Satsepin & Petrova 1934-1938
+GAD_MOR-SAG_SPP	Satsepin & Petrova 1934-1938
+GAD_MOR-SCL_SP	Satsepin & Petrova 1934-1938
+GAD_MOR-SEB_MAR	Mehl 1991
+GAD_MOR-SEB_MEN	Mehl 1991
+GAD_MOR-SEB_VIV	Høines & Bergstad 1999
+GAD_MOR-SPI_TYP	Satsepin & Petrova 1934-1938
+GAD_MOR-STRO_SP	Satsepin & Petrova 1934-1938
+GAD_MOR-TER_STRO	Mehl 1991
+GAD_MOR-TER_STRO	Klemetsen 1982
+GAD_MOR-TER_STRO	Satsepin & Petrova 1934-1938
+GAD_MOR-THE_ABY	Mehl 1991
+GAD_MOR-THE_LIB	Mehl 1991
+GAD_MOR-THY_GOU	Mironova 1957
+GAD_MOR-THY_INE	Kanapathippillai et al. 1994
+GAD_MOR-THY_LON	Kanapathippillai et al. 1994
+GAD_MOR-THY_RAS	Kanapathippillai et al. 1994
+GAD_MOR-TRI_ESM	Kanapathippillai et al. 1994
+GAD_MOR-TRI_ESM	Høines & Bergstad 1999
+GAD_MOR-TRI_MUR	Rodríguez-Marín et al. 1994
+GAD_MOR-TRI_PIN	Mehl 1991
+GAI_ARG-MAL_VIL	Dolgov 2002
+GAI_ARG-MEG_NOR	Bowman et al. 2000
+GAI_ARG-NYC_COU	Andriyashev 1954
+GAI_ARG-POL_IND	Cohen et al. 1990
+GAI_ARG-THE_ABY	Bowman et al. 2000
+GAI_ARG-THE_LIB	Bowman et al. 2000
+GAI_ARG-THY_INE	Bowman et al. 2000
+GAI_ARG-THY_LON	Bowman et al. 2000
+GAI_ARG-THY_RAS	Bowman et al. 2000
+GAM_WIL-BAC_IND	Poltermann 2001
+GAM_WIL-CAL_FIN	Bodini et al. 2009
+GAM_WIL-CAL_GLA	Bodini et al. 2009
+GAM_WIL-CAL_HYP	Werner et al. 2002
+GAM_WIL-DET_IND	Werner et al. 2002
+GAM_WIL-ICE_ALG	Bradstreet & Cross 1982
+GAM_WIL-MET_LON	Bodini et al. 2009
+GAM_WIL-MIC_SPP	Bodini et al. 2009
+GAM_WIL-OIT_SIM	Bodini et al. 2009
+GAM_WIL-PROZOO	Poltermann 2001
+GAS_ACU-CAL_FIN	Bowman et al. 2000
+GAS_ACU-CAL_GLA	Bowman et al. 2000
+GAS_ACU-CAL_HYP	Bowman et al. 2000
+GAS_ACU-FI_LA	Bowman et al. 2000
+GEO_SP-BAC_IND	Bell 2008
+GEO_SP-DET_IND	Bell 2008
+GEO_SP-PHY_IND	Bell 2008
+GLY_CYN-GAM_IND	Andriyashev 1954
+GLY_CYN-OPH_SP	Andriyashev 1954
+GLY_CYN-POL_IND	Andriyashev 1954
+GLY_CYN-SCL_SP	Andriyashev 1954
+GON_FAB-CAL_FIN	Heldal et al. 2003
+GON_FAB-CAL_GLA	Bodini et al. 2009
+GON_FAB-CAL_HYP	Heldal et al. 2003
+GON_FAB-GON_FAB	Heldal et al. 2003
+GON_FAB-MET_LON	Bodini et al. 2009
+GON_FAB-OIT_SIM	Bodini et al. 2009
+GON_FAB-POL_VIR	Bodini et al. 2009
+GON_FAB-THE_ABY	Bodini et al. 2009
+GON_FAB-THE_LIB	Bodini et al. 2009
+GON_FAB-THY_INE	Bodini et al. 2009
+GON_FAB-THY_LON	Bodini et al. 2009
+GON_FAB-THY_RAS	Bodini et al. 2009
+GOR_SP-CAL_GLA	Jørgensen et al. 2014
+GOR_SP-FI_LA	Emson et al. 1991
+GOR_SP-MEG_NOR	Emson et al. 1991
+GYM_SPP-BAL_SP	Atkinson & Percy 1991
+GYM_SPP-GAM_IND	Atkinson & Percy 1991
+GYM_SPP-POL_IND	Atkinson & Percy 1992
+GYM_SPP-PSE_SPP	Chiperzak et al. 2003
+GYM_TRI-CAL_HYP	Atkinson & Percy 1991
+GYM_TRI-MAC_SP	Atkinson & Percy 1992
+GYM_TRI-MAL_SAR	Briskina 1939
+GYM_TRI-MET_LON	Atkinson & Percy 1991
+GYM_TRI-OIK_VAN	Chiperzak et al. 2003
+GYM_TRI-POL_IND	Briskina 1939
+GYM_TRI-SCA_INF	Atkinson & Percy 1992
+GYM_TRI-SPI_TYP	Briskina 1939
+GYM_TRI-TER_STRO	Briskina 1939
+HET_FIL-DET_IND	Cochrane et al. 2012
+HET_FLA-AUT_FLA	Gissel Nielsen 2005
+HET_FLA-BAC_IND	Gissel Nielsen 2005
+HIP_HIP-AMM_SPP	Bowman et al. 2000
+HIP_HIP-AST_SP	Bowman et al. 2000
+HIP_HIP-GAD_MOR	Bowman et al. 2000
+HIP_HIP-GAM_IND	Bowman et al. 2000
+HIP_HIP-LUM_SP	Bowman et al. 2000
+HIP_HIP-NEP_SP	Bowman et al. 2000
+HIP_HIP-OPH_ACU	Bowman et al. 2000
+HIP_HIP-OPH_SP	Bowman et al. 2000
+HIP_HIP-PAG_SP	Bowman et al. 2000
+HIP_HIP-PAN_BOR	Parsons 2005
+HIP_HIP-PAN_BOR	Bowman et al. 2000
+HIP_HIP-POL_IND	Bowman et al. 2000
+HIP_HIP-TER_STRO	Bowman et al. 2000
+HIP_HIP-TRI_MUR	Bodini et al. 2009
+HIP_HIP-YOL_SOL	Bowman et al. 2000
+HIP_PLA-BOR_SAI	Komarova 1939
+HIP_PLA-CLI_LIM	Komarova 1939
+HIP_PLA-CLU_HAR	Komarova 1939
+HIP_PLA-CTE_CRI	Komarova 1939
+HIP_PLA-HYA_SP	Komarova 1939
+HIP_PLA-LUM_FAB	Komarova 1939
+HIP_PLA-LUM_LAM	Rodríguez-Marín et al. 1994
+HIP_PLA-LUM_LAM	Komarova 1939
+HIP_PLA-MAL_VIL	Komarova 1939
+HIP_PLA-OPH_ACU	Román et al. 2004
+HIP_PLA-OPH_BID	Román et al. 2004
+HIP_PLA-OPH_SER	Román et al. 2004
+HIP_PLA-OPH_SP	Komarova 1939
+HIP_PLA-PAN_BOR	Komarova 1939
+HIP_PLA-POL_IND	Komarova 1939
+HIP_PLA-SAB_SP	Komarova 1939
+HIP_PLA-THE_LIB	Komarova 1939
+HIP_PLA-TRI_PIN	Komarova 1939
+HYA_SP-AST_RUB	Bodini et al. 2009
+HYA_SP-CHL_ISL	Arsenault & Himmelman 1996
+ICE_SPP-ASC_G_SP	Atkinson & Percy 1991
+ICE_SPP-CAL_GLA	Atkinson & Percy 1991
+ICE_SPP-CAL_HYP	Atkinson & Percy 1991
+ICE_SPP-POL_IND	Briskina 1939
+ICE_SPP-PSE_SPP	Atkinson & Percy 1991
+ICE_SPP-RHA_SP	Briskina 1939
+ICE_SPP-RHA_SP	Atkinson & Percy 1992
+ICE_SPP-THY_INE	Atkinson & Percy 1991
+LAG_ALB-BOR_SAI	Kovacs et al. 2009
+LAG_ALB-CLU_HAR	Kovacs et al. 2009
+LAG_ALB-GAD_MOR	Kovacs et al. 2009
+LAG_ALB-GON_FAB	Kovacs et al. 2009
+LAG_ALB-MAL_VIL	Kovacs et al. 2009
+LAG_ALB-MEL_AEG	Kovacs et al. 2009
+LAG_ALB-MER_MER	Kovacs et al. 2009
+LAG_ALB-TRI_ESM	Kovacs et al. 2009
+LAR_ARG-AST_RUB	Bodini et al. 2009
+LAR_ARG-BAL_SP	Bodini et al. 2009
+LAR_ARG-CLU_HAR	Bodini et al. 2009
+LAR_ARG-CRO_PAP	Bodini et al. 2009
+LAR_ARG-GAD_MOR	Bodini et al. 2009
+LAR_ARG-MAL_VIL	Dolgov 2002
+LAR_HYP-ALL_ALL	Bodini et al. 2009
+LAR_HYP-AMM_SPP	Erikstad 1990
+LAR_HYP-BOR_SAI	Erikstad 1990
+LAR_HYP-CLU_HAR	Bodini et al. 2009
+LAR_HYP-GAD_MOR	Erikstad 1990
+LAR_HYP-MAL_VIL	Bodini et al. 2009
+LAR_HYP-SEB_MAR	Erikstad 1990
+LAR_HYP-SEB_MEN	Erikstad 1990
+LAR_MAR-AST_RUB	Bodini et al. 2009
+LAR_MAR-BAL_SP	Bodini et al. 2009
+LAR_MAR-CLU_HAR	Bodini et al. 2009
+LAR_MAR-GAD_MOR	Bodini et al. 2009
+LAR_MAR-MAL_VIL	Dolgov 2002
+LEP_DEC-CAL_FIN	Pethon 1994
+LEP_DEC-CAL_GLA	Pethon 1994
+LEP_DEC-CAL_HYP	Pethon 1994
+LEP_DEC-GAM_IND	Pethon 1994
+LEP_DEC-MET_LON	Andriyashev 1954
+LEP_DEC-POL_IND	Pethon 1994
+LEP_DEC-POLY_IND	Andriyashev 1954
+LEP_DEC-THE_LIB	Heggland et al. 2011
+LEP_DEC-THY_INE	Heggland et al. 2011
+LEP_DEC-THY_LON	Heggland et al. 2011
+LEP_MAC-GAM_IND	Andriyashev 1954
+LEP_MAC-POL_IND	Andriyashev 1954
+LIM_HEL-APH_GLA	Bodini et al. 2009
+LIM_HEL-CAL_FIN	Bodini et al. 2009
+LIM_HEL-CAL_GLA	Bodini et al. 2009
+LIM_HEL-CAL_HYP	Bodini et al. 2009
+LIM_HEL-GAM_WIL	Bodini et al. 2009
+LIM_HEL-MET_LON	Bodini et al. 2009
+LIM_HEL-OIT_SIM	Bodini et al. 2009
+LIM_HEL-ONI_GLA	Bodini et al. 2009
+LIM_HEL-ONI_NAN	Bodini et al. 2009
+LIM_HEL-PHY_IND	Falk-Petersen et al. 2001
+LIM_HEL-PSE_SPP	Bodini et al. 2009
+LIM_LIM-AMM_SPP	Bodini et al. 2009
+LIM_LIM-AST_RUB	Bodini et al. 2009
+LIM_LIM-BAL_SP	Bodini et al. 2009
+LIM_LIM-BUC_SP	Bylicheva 1948
+LIM_LIM-CRO_PAP	Bodini et al. 2009
+LIM_LIM-MAC_SP	Bylicheva 1948
+LIM_LIM-OPH_ACU	Bylicheva 1948
+LIM_LIM-OPH_BID	Bylicheva 1948
+LIM_LIM-OPH_SP	Hinz et al. 2005
+LIM_LIM-PAG_SP	Bylicheva 1948
+LIM_LIM-PAN_BOR	Bodini et al. 2009
+LIM_LIM-POL_IND	Hinz et al. 2005
+LIM_LIM-SCL_SP	Bylicheva 1948
+LIM_LIM-STRO_SP	Bylicheva 1948
+LIM_LIM-TER_STRO	Bylicheva 1948
+LIM_RET-APH_GLA	Bodini et al. 2009
+LIM_RET-CAL_FIN	Bodini et al. 2009
+LIM_RET-CAL_GLA	Bodini et al. 2009
+LIM_RET-CAL_HYP	Bodini et al. 2009
+LIM_RET-GAM_WIL	Bodini et al. 2009
+LIM_RET-MET_LON	Bodini et al. 2009
+LIM_RET-OIT_SIM	Bodini et al. 2009
+LIM_RET-ONI_GLA	Bodini et al. 2009
+LIM_RET-ONI_NAN	Bodini et al. 2009
+LIM_RET-PSE_SPP	Bodini et al. 2009
+LIP_FAB-CAL_HYP	Pedersen 1999
+LIP_FAB-MET_LON	Pedersen 1999
+LIP_FAB-ONC_BOR	Pedersen 1999
+LIP_FAB-PSE_SPP	Pedersen 1999
+LIP_GIB-MAL_VIL	Dolgov 2002
+LIP_GIB-POL_IND	Atkinson & Percy 1992
+LIP_GIB-THE_ABY	Bodini et al. 2009
+LIP_GIB-THE_LIB	Bodini et al. 2009
+LIP_MON-CAL_HYP	Gibson 1972
+LIP_MON-GAM_IND	Gibson 1972
+LIP_MON-OST_IND	Gibson 1972
+LIP_MON-PSE_SPP	Gibson 1972
+LUM_FAB-FI_LA	Atkinson & Percy 1992
+LUM_FAB-POL_IND	Atkinson & Percy 1992
+LUM_LAM-CAL_FIN	Gordon & Duncan 1979
+LUM_LAM-CAL_GLA	Gordon & Duncan 1979
+LUM_LAM-CAL_HYP	Gordon & Duncan 1979
+LUM_LAM-DET_IND	Moller-Buchner et al. 1984
+LUM_LAM-FOR_IND	Gordon & Duncan 1979
+LUM_LAM-GAM_IND	Moller-Buchner et al. 1984
+LUM_LAM-OST_IND	Moller-Buchner et al. 1984
+LUM_LAM-THY_LON	Gordon & Duncan 1979
+LUM_LAM-THY_RAS	Gordon & Duncan 1979
+LUM_MIN-AUT_FLA	Fauchald & Jumars 1979
+LUM_MIN-DET_IND	Fauchald & Jumars 1979
+LUM_MIN-DET_IND	Horng & Taghon 1999
+LUM_MIN-DIATOM	Fauchald & Jumars 1979
+LUM_MIN-HET_FLA	Fauchald & Jumars 1979
+LUM_MIN-PHY_IND	Fauchald & Jumars 1979
+LUM_SP-DET_IND	Petch 1986
+LYC_ESM-GAM_IND	Bjelland et al. 2000
+LYC_ESM-MAL_VIL	Dolgov 2002
+LYC_ESM-MEG_NOR	Bjelland et al. 2000
+LYC_ESM-OPH_ACU	Bodini et al. 2009
+LYC_ESM-OPH_SP	Bjelland et al. 2000
+LYC_ESM-OPH_SP	Valtysson 1995
+LYC_EUD-DET_IND	Valtysson 1995
+LYC_EUD-GAM_IND	Valtysson 1995
+LYC_EUD-OPH_SER	Bjelland et al. 2000
+LYC_EUD-POL_IND	Bjelland et al. 2000
+LYC_EUD-POL_IND	Valtysson 1995
+LYC_EUD-THE_LIB	Bjelland et al. 2000
+LYC_EUD-THY_INE	Bjelland et al. 2000
+LYC_GRA-OPH_SP	Albert 1993
+LYC_GRA-OST_IND	Albert 1993
+LYC_GRA-POL_IND	Albert 1993
+LYC_KOL-GAM_IND	Andriyashev 1954
+LYC_KOL-POL_IND	Andriyashev 1954
+LYC_KOL-YOL_SOL	Andriyashev 1954
+LYC_PAL-DET_IND	Valtysson 1995
+LYC_PAL-GAM_IND	Bjelland et al. 2000
+LYC_PAL-GAM_IND	Valtysson 1995
+LYC_PAL-PAN_BOR	Román et al. 2004
+LYC_PAL-POL_IND	Valtysson 1995
+LYC_PAL-SPI_TYP	Briskina 1939
+LYC_PAL-THY_INE	Valtysson 1995
+LYC_RET-MAL_VIL	Dolgov 2002
+LYC_RET-MEG_NOR	Valtysson 1995
+LYC_RET-PAN_BOR	Rodríguez-Marín et al. 1994
+LYC_RET-THE_ABY	Bodini et al. 2009
+LYC_RET-THE_LIB	Bodini et al. 2009
+LYC_RET-THY_INE	Valtysson 1995
+LYC_RET-THY_LON	Valtysson 1995
+LYC_RET-THY_RAS	Valtysson 1995
+LYC_ROS-MEG_NOR	Valtysson 1995
+LYC_ROS-PAN_BOR	Parsons 2005
+LYC_ROS-PAN_BOR	Valtysson 1995
+LYC_ROS-THY_INE	Valtysson 1995
+LYC_ROS-THY_LON	Valtysson 1995
+LYC_SEM-PAN_BOR	Parsons 2005
+LYC_SEM-THE_ABY	Valtysson 1995
+LYC_SEM-THE_LIB	Valtysson 1995
+LYC_SEM-THY_INE	Valtysson 1995
+LYC_SEM-THY_RAS	Valtysson 1995
+MAC_BER-APH_GLA	Bjelland et al. 2000
+MAC_BER-BRO_BRO	Eliassen & Jobling 1985
+MAC_BER-CAL_FIN	Houston & Haedrich 1986
+MAC_BER-CAL_FIN	Eliassen & Jobling 1985
+MAC_BER-CIO_INT	Eliassen & Jobling 1985
+MAC_BER-CLU_HAR	Bjelland et al. 2000
+MAC_BER-CRO_PAP	Eliassen & Jobling 1985
+MAC_BER-FI_LA	Eliassen & Jobling 1985
+MAC_BER-GAM_IND	Rodríguez-Marín et al. 1994
+MAC_BER-MAC_BER	Eliassen & Jobling 1985
+MAC_BER-MEG_NOR	Bjelland et al. 2000
+MAC_BER-OPH_ACU	Houston & Haedrich 1986
+MAC_BER-OPH_BID	Houston & Haedrich 1986
+MAC_BER-OPH_BOR	Houston & Haedrich 1986
+MAC_BER-OPH_GLA	Eliassen & Jobling 1985
+MAC_BER-OPH_SER	Eliassen & Jobling 1985
+MAC_BER-OPH_SP	Eliassen & Jobling 1985
+MAC_BER-OST_IND	Houston & Haedrich 1986
+MAC_BER-PAN_BOR	Bjelland et al. 2000
+MAC_BER-PAN_BOR	Eliassen & Jobling 1985
+MAC_BER-POL_IND	Houston & Haedrich 1986
+MAC_BER-POL_IND	Eliassen & Jobling 1985
+MAC_BER-REI_HIP	Eliassen & Jobling 1985
+MAC_BER-STRO_SP	Eliassen & Jobling 1985
+MAC_BER-THY_INE	Eliassen & Jobling 1985
+MAC_BER-THY_RAS	Eliassen & Jobling 1985
+MAL_VIL-CAL_FIN	Ajiad & Pushchaeva 1992
+MAL_VIL-CAL_GLA	Bodini et al. 2009
+MAL_VIL-CAL_HYP	Vesin et al. 1981
+MAL_VIL-CAL_HYP	Hedeholm et al. 2012
+MAL_VIL-MAL_VIL	Dolgov 2002
+MAL_VIL-MET_LON	Hassel et al. 1991
+MAL_VIL-OIK_SPP	Ajiad & Pushchaeva 1992
+MAL_VIL-OIT_SIM	Bodini et al. 2009
+MAL_VIL-ONC_BOR	Ajiad & Pushchaeva 1992
+MAL_VIL-PAR_NOR	Prokhorov 1965
+MAL_VIL-PAR_SPP	Ajiad & Pushchaeva 1992
+MAL_VIL-PAR_SPP	Prokhorov 1965
+MAL_VIL-PSE_SPP	Ajiad & Pushchaeva 1992
+MAL_VIL-THE_ABY	Valtysson 1995
+MAL_VIL-THE_LIB	Ajiad & Pushchaeva 1992
+MAL_VIL-THY_INE	Ajiad & Pushchaeva 1992
+MAL_VIL-THY_RAS	Ajiad & Pushchaeva 1992
+MAU_MUE-ACA_SPP	Mauchline & Gordon 1983
+MAU_MUE-FI_LA	Young & Blaber 1986
+MAU_MUE-MET_LUC	Young & Blaber 1986
+MAU_MUE-ONC_BOR	Young & Blaber 1986
+MAU_MUE-OST_IND	Mauchline & Gordon 1983
+MEG_NOR-ACA_SPP	Lass et al. 2001
+MEG_NOR-ACA_SPP	Macdonald 1927
+MEG_NOR-AUT_FLA	Båmstedt & Karlson 1998
+MEG_NOR-CAL_FIN	Båmstedt & Karlson 1998
+MEG_NOR-CAL_GLA	Bodini et al. 2009
+MEG_NOR-CAL_HYP	Bodini et al. 2009
+MEG_NOR-DET_IND	Lass et al. 2001
+MEG_NOR-DIATOM	Lass et al. 2001
+MEG_NOR-FOR_IND	Lass et al. 2001
+MEG_NOR-HET_FLA	Lass et al. 2001
+MEG_NOR-MET_LON	Båmstedt & Karlson 1998
+MEG_NOR-MIC_SPP	Bodini et al. 2009
+MEG_NOR-OIT_SIM	Macdonald 1927
+MEG_NOR-PSE_SPP	Lass et al. 2001
+MEG_NOV-AMM_SPP	Haug et al. 1995
+MEG_NOV-BOR_SAI	Haug et al. 1995
+MEG_NOV-CAL_FIN	Bodini et al. 2009
+MEG_NOV-CAL_GLA	Bodini et al. 2009
+MEG_NOV-CAL_HYP	Bodini et al. 2009
+MEG_NOV-CLU_HAR	Nøttestad & Olsen 2004
+MEG_NOV-CLU_HAR	Clapham 2009
+MEG_NOV-FI_LA	Clapham 2009
+MEG_NOV-GAD_MOR	Haug et al. 1995
+MEG_NOV-GLY_CYN	Haug et al. 1996
+MEG_NOV-MAL_VIL	Nøttestad & Olsen 2004
+MEG_NOV-MEG_NOR	Nøttestad & Olsen 2004
+MEG_NOV-MEG_NOR	Clapham 2009
+MEG_NOV-MEL_AEG	Haug et al. 1995
+MEG_NOV-MIC_POU	Nøttestad & Olsen 2004
+MEG_NOV-POL_VIR	Haug et al. 1995
+MEG_NOV-REI_HIP	Bodini et al. 2009
+MEG_NOV-SEB_MAR	Bodini et al. 2009
+MEG_NOV-SEB_MEN	Bodini et al. 2009
+MEG_NOV-SEB_SPP	Haug et al. 1995
+MEG_NOV-THE_ABY	Haug et al. 1995
+MEG_NOV-THE_ABY	Aguilar 2009
+MEG_NOV-THE_LIB	Haug et al. 1995
+MEG_NOV-THE_LIB	Aguilar 2009
+MEG_NOV-THY_INE	Nøttestad & Olsen 2004
+MEG_NOV-THY_INE	Clapham 2009
+MEG_NOV-THY_LON	Nøttestad & Olsen 2004
+MEG_NOV-THY_LON	Clapham 2009
+MEG_NOV-THY_RAS	Nøttestad & Olsen 2004
+MEG_NOV-THY_RAS	Clapham 2009
+MEL_AEG-ACT_G_SP	IMR-PINRO report 2009
+MEL_AEG-AMM_SPP	Jiang & Jørgensen 1996
+MEL_AEG-ARR_PHY	IMR-PINRO report 2009
+MEL_AEG-AST_RUB	IMR-PINRO report 2009
+MEL_AEG-AST_SP	Mironova 1957
+MEL_AEG-BAL_SP	IMR-PINRO report 2009
+MEL_AEG-BAT_GLA	IMR-PINRO report 2009
+MEL_AEG-BEN_GLA	Burgos & Mehl 1987
+MEL_AEG-CAL_FIN	Mironova 1957
+MEL_AEG-CAL_GLA	Bodini et al. 2009
+MEL_AEG-CAL_HYP	Mironova 1957
+MEL_AEG-CHA_SP	Mattson 1992
+MEL_AEG-CLU_HAR	Burgos & Mehl 1987
+MEL_AEG-CRO_PAP	IMR-PINRO report 2009
+MEL_AEG-CTE_CRI	Satsepin 1939
+MEL_AEG-CUC_FRO	IMR-PINRO report 2009
+MEL_AEG-ERY_SP	Mattson 1992
+MEL_AEG-FI_LA	Andriyashev 1954
+MEL_AEG-GAD_MOR	IMR-PINRO report 2009
+MEL_AEG-GAM_IND	Mironova 1957
+MEL_AEG-HET_FIL	Mattson 1992
+MEL_AEG-HIP_PLA	Burgos & Mehl 1987
+MEL_AEG-HYA_SP	Burgos & Mehl 1987
+MEL_AEG-LEP_MAC	Bodini et al. 2009
+MEL_AEG-LUM_LAM	Burgos & Mehl 1987
+MEL_AEG-MAC_SP	Satsepin 1939
+MEL_AEG-MAL_SAR	Mattson 1992
+MEL_AEG-MAL_VIL	Andriyashev 1954
+MEL_AEG-MEG_NOR	Høines & Bergstad 1999
+MEL_AEG-MEL_AEG	Burgos & Mehl 1987
+MEL_AEG-MET_LON	Mironova 1957
+MEL_AEG-MIC_POU	Dolgov et al. 2010
+MEL_AEG-NEP_SP	Mattson 1992
+MEL_AEG-OPH_ACU	Høines & Bergstad 1999
+MEL_AEG-OPH_BID	IMR-PINRO report 2009
+MEL_AEG-OPH_BOR	IMR-PINRO report 2009
+MEL_AEG-OPH_GLA	IMR-PINRO report 2009
+MEL_AEG-OPH_SER	IMR-PINRO report 2009
+MEL_AEG-OPH_SP	Høines & Bergstad 1999
+MEL_AEG-OST_IND	Mironova 1957
+MEL_AEG-PAG_SP	Bodini et al. 2009
+MEL_AEG-PAN_BOR	Høines & Bergstad 1999
+MEL_AEG-POL_IND	Mattson 1992
+MEL_AEG-PON_NOR	Burgos & Mehl 1987
+MEL_AEG-PRI_CIR	Mattson 1992
+MEL_AEG-SAB_SP	IMR-PINRO report 2009
+MEL_AEG-SAG_SPP	IMR-PINRO report 2009
+MEL_AEG-SEB_MEN	Dolgov & Drevetnyak 1993
+MEL_AEG-SEB_SPP	Jiang & Jørgensen 1996
+MEL_AEG-SIM_GRE	IMR-PINRO report 2009
+MEL_AEG-SPI_KRO	Mattson 1992
+MEL_AEG-SPI_TYP	Satsepin 1939
+MEL_AEG-STRO_SP	Satsepin 1939
+MEL_AEG-THE_ABY	IMR-PINRO report 2009
+MEL_AEG-THE_LIB	IMR-PINRO report 2009
+MEL_AEG-THY_INE	Burgos & Mehl 1987
+MEL_AEG-TRI_ESM	Burgos & Mehl 1987
+MEL_AEG-TRI_PIN	Høines & Bergstad 1999
+MEL_AEG-YOL_SOL	Satsepin 1939
+MER_MER-AMM_SPP	Hislop et al. 1991
+MER_MER-ANA_LUP	Hislop et al. 1991
+MER_MER-ARG_SP	Hislop et al. 1991
+MER_MER-CIO_INT	Hislop et al. 1991
+MER_MER-CLU_HAR	Hislop et al. 1991
+MER_MER-GAD_ARG	Hislop et al. 1991
+MER_MER-GAD_MOR	Hislop et al. 1991
+MER_MER-GAM_IND	Hislop et al. 1991
+MER_MER-GAS_ACU	Hislop et al. 1991
+MER_MER-GON_FAB	Hislop et al. 1991
+MER_MER-HIP_PLA	Hislop et al. 1991
+MER_MER-LIM_LIM	Hislop et al. 1991
+MER_MER-MAU_MUE	Hislop et al. 1991
+MER_MER-MEL_AEG	Hislop et al. 1991
+MER_MER-MER_MER	Hislop et al. 1991
+MER_MER-MIC_KIT	Hislop et al. 1991
+MER_MER-PAN_BOR	Hislop et al. 1991
+MER_MER-POL_IND	Hislop et al. 1991
+MER_MER-POR_G_SP	Hislop et al. 1991
+MER_MER-ROS_SP	Hislop et al. 1991
+MER_MER-SAG_SPP	Hislop et al. 1991
+MER_MER-SCL_SP	Hislop et al. 1991
+MER_MER-SCO_SCO	Hislop et al. 1991
+MER_MER-SEB_VIV	Hislop et al. 1991
+MER_MER-THY_INE	Hislop et al. 1991
+MER_MER-THY_LON	Hislop et al. 1991
+MER_MER-THY_RAS	Hislop et al. 1991
+MER_MER-TRI_ESM	Hislop et al. 1991
+MER_OVU-CAL_FIN	Bodini et al. 2009
+MER_OVU-CAL_GLA	Bodini et al. 2009
+MER_OVU-CAL_HYP	Bodini et al. 2009
+MER_OVU-MET_LON	Bodini et al. 2009
+MER_OVU-MIC_SPP	Bodini et al. 2009
+MER_OVU-OIT_SIM	Bodini et al. 2009
+MER_OVU-PSE_SPP	Bodini et al. 2009
+MET_LON-PHY_IND	Bodini et al. 2009
+MET_LUC-PHY_IND	Bodini et al. 2009
+MIC_KIT-ACT_G_SP	Hinz et al. 2005
+MIC_KIT-POL_IND	Hinz et al. 2005
+MIC_POU-ANA_DEN	Dolgov et al. 2010
+MIC_POU-ANA_LUP	Dolgov et al. 2010
+MIC_POU-ANA_MIN	Dolgov et al. 2010
+MIC_POU-AUR_AUR	Dolgov et al. 2010
+MIC_POU-BOR_SAI	Dolgov et al. 2010
+MIC_POU-CAL_FIN	Dolgov et al. 2010
+MIC_POU-CAL_GLA	Dolgov et al. 2010
+MIC_POU-CAL_HYP	Prokopchuk & Sentyabov 2006
+MIC_POU-CLU_HAR	Dolgov et al. 2010
+MIC_POU-CYA_CAP	Dolgov et al. 2010
+MIC_POU-GAD_MOR	Dolgov et al. 2010
+MIC_POU-GAM_IND	Dolgov et al. 2010
+MIC_POU-GON_FAB	Dolgov et al. 2010
+MIC_POU-HIP_PLA	Ellis et al. 1996
+MIC_POU-LIM_HEL	Dolgov et al. 2010
+MIC_POU-LIP_FAB	Dolgov et al. 2010
+MIC_POU-LIP_GIB	Dolgov et al. 2010
+MIC_POU-LIP_MON	Dolgov et al. 2010
+MIC_POU-LUM_FAB	Dolgov et al. 2010
+MIC_POU-LUM_LAM	Dolgov et al. 2010
+MIC_POU-MAL_VIL	Dolgov et al. 2010
+MIC_POU-MAU_MUE	Dolgov et al. 2010
+MIC_POU-MEG_NOR	Dolgov et al. 2010
+MIC_POU-MEL_AEG	Dolgov et al. 2010
+MIC_POU-MIC_POU	Dolgov et al. 2010
+MIC_POU-OIK_SPP	Dolgov et al. 2010
+MIC_POU-OIK_SPP	Prokopchuk & Sentyabov 2006
+MIC_POU-PAN_BOR	Dolgov et al. 2010
+MIC_POU-PAR_NOR	Prokopchuk & Sentyabov 2006
+MIC_POU-PAR_SPP	Prokopchuk & Sentyabov 2006
+MIC_POU-POL_VIR	Dolgov et al. 2010
+MIC_POU-ROS_SP	Dolgov et al. 2010
+MIC_POU-SAG_SPP	Dolgov et al. 2010
+MIC_POU-SAG_SPP	Prokopchuk & Sentyabov 2006
+MIC_POU-SEB_SPP	Dolgov et al. 2010
+MIC_POU-THE_ABY	Dolgov et al. 2010
+MIC_POU-THE_LIB	Dolgov et al. 2010
+MIC_POU-THY_INE	Dolgov et al. 2010
+MIC_POU-THY_LON	Dolgov et al. 2010
+MIC_POU-THY_RAS	Dolgov et al. 2010
+MIC_POU-TRI_ESM	Dolgov et al. 2010
+MIC_SPP-DET_IND	Bodini et al. 2009
+MOL_BOR-AUT_FLA	Amaro et al. 2010
+MOL_BOR-DET_IND	Amaro et al. 2010
+MOL_BOR-DIATOM	Amaro et al. 2010
+MOL_BOR-HET_FLA	Amaro et al. 2010
+MOL_BOR-MAC_IND	Amaro et al. 2010
+MOL_BOR-PHY_IND	Amaro et al. 2010
+MOL_MOL-ARG_SP	Gundersen 1996
+MOL_MOL-GAD_MOR	Bergstad 1990
+MOL_MOL-GON_FAB	Gundersen 1996
+MOL_MOL-MIC_POU	Gundersen 1996
+MOL_MOL-OPH_ACU	Bergstad 1990
+MOL_MOL-OPH_BID	Bergstad 1990
+MOL_MOL-OPH_SP	Bergstad 1990
+MOL_MOL-ROS_SP	Bergstad 1990
+MOL_MOL-THY_RAS	Bergstad 1990
+MOL_MOL-TRI_ESM	Bergstad 1990
+MON_MON-ARC_GLA	Finley & Gibb 1982
+MON_MON-BOR_SAI	Kovacs et al. 2009
+MON_MON-BOR_SAI	Wolkers et al. 2006
+MON_MON-GON_FAB	Finley & Gibb 1982
+MON_MON-MAL_VIL	Laidre et al. 2006
+MON_MON-PAN_BOR	Laidre et al. 2006
+MON_MON-PAN_BOR	Kovacs et al. 2009
+MON_MON-REI_HIP	Wolkers et al. 2006
+MON_MON-SEB_MAR	Finley & Gibb 1982
+MON_MON-SEB_SPP	Finley & Gibb 1982
+MYO_SCO-GAM_IND	Atkinson & Percy 1992
+MYO_SCO-GAM_WIL	Atkinson & Percy 1991
+MYO_SCO-POL_IND	Atkinson & Percy 1992
+NYC_COU-DET_IND	Conover 1960
+NYC_COU-DIATOM	Conover 1960
+NYC_COU-PHY_IND	Conover 1960
+NYC_COU-SAG_SPP	Conover 1960
+ODO_ROS-AST_SP	Fischer & Stewart 1997
+ODO_ROS-AST_SP	Sheffield & Grebmeier 2009
+ODO_ROS-BOR_SAI	Gjertz & Wiig 1992
+ODO_ROS-BUC_SP	Fischer & Stewart 1997
+ODO_ROS-BUC_SP	Sheffield & Grebmeier 2009
+ODO_ROS-CHL_ISL	Skoglund et al. 2012
+ODO_ROS-ERI_BAR	Gjertz & Wiig 1992
+ODO_ROS-HYA_SP	Skoglund et al. 2012
+ODO_ROS-LIP_FAB	Skoglund et al. 2012
+ODO_ROS-LIP_GIB	Skoglund et al. 2012
+ODO_ROS-LIP_MON	Skoglund et al. 2012
+ODO_ROS-MOL_BOR	Sheffield & Grebmeier 2009
+ODO_ROS-MYO_SCO	Skoglund et al. 2012
+ODO_ROS-PAG_GRO	Thiemann et al. 2008
+ODO_ROS-PAG_SP	Skoglund et al. 2012
+ODO_ROS-PHO_HIS	Gjertz & Wiig 1992
+ODO_ROS-POL_IND	Sheffield & Grebmeier 2009
+ODO_ROS-SCL_SP	Skoglund et al. 2012
+ODO_ROS-STRO_SP	Fischer & Stewart 1997
+OIK_DIO-BAC_IND	Turner 1984
+OIK_DIO-DIATOM	Turner 1984
+OIK_SPP-PHY_IND	Pasternak et al. 2008
+OIT_SIM-DIATOM	Turner 1984
+OIT_SIM-PHY_IND	Bodini et al. 2009
+ONC_BOR-PHY_IND	Turner 1984
+ONI_GLA-BAC_IND	Poltermann 2001
+ONI_GLA-CAL_FIN	Scott et al. 1999
+ONI_GLA-CAL_GLA	Scott et al. 1999
+ONI_GLA-CAL_HYP	Scott et al. 1999
+ONI_GLA-DET_IND	Poltermann 2001
+ONI_GLA-ICE_ALG	Bradstreet & Cross 1982
+ONI_GLA-PROZOO	Poltermann 2001
+ONI_NAN-BAC_IND	Poltermann 2001
+ONI_NAN-DET_IND	Poltermann 2001
+ONI_NAN-ICE_ALG	Poltermann 2001
+ONI_NAN-PROZOO	Poltermann 2001
+OPH_ACU-DET_IND	Bodini et al. 2009
+OPH_ACU-PHY_IND	Bodini et al. 2009
+OPH_BID-DET_IND	Pearson & Gage 1975
+OPH_BID-FOR_IND	Pearson & Gage 1975
+OPH_BID-GAM_IND	Pearson & Gage 1975
+OPH_SP-DET_IND	Bodini et al. 2009
+OPH_SP-GAM_IND	Harris et al. 2009
+OPH_SP-HYA_SP	Harris et al. 2009
+OPH_SP-PHY_IND	Bodini et al. 2009
+OPH_SP-POL_IND	Harris et al. 2009
+ORC_ORC-ALL_ALL	Bodini et al. 2009
+ORC_ORC-CLU_HAR	Similä et al. 1996
+ORC_ORC-DEL_LEU	Bodini et al. 2009
+ORC_ORC-FI_LA	Similä et al. 1996
+ORC_ORC-FUL_GLA	Bodini et al. 2009
+ORC_ORC-GAD_MOR	Similä et al. 1996
+ORC_ORC-GON_FAB	Similä et al. 1996
+ORC_ORC-LIM_LIM	Bodini et al. 2009
+ORC_ORC-MON_MON	Bodini et al. 2009
+ORC_ORC-PLE_PLA	Bodini et al. 2009
+ORC_ORC-POL_VIR	Bodini et al. 2009
+OST_IND-AUT_FLA	Vannier et al. 1998
+OST_IND-BEN_LAR	Vannier et al. 1998
+OST_IND-DET_IND	Vannier et al. 1998
+OST_IND-DIATOM	Vannier et al. 1998
+OST_IND-FOR_IND	Vannier et al. 1998
+OST_IND-HET_FLA	Vannier et al. 1998
+PAG_GRO-AMM_SPP	Haug et al. 2004
+PAG_GRO-AMM_SPP	Lindstrøm et al. 1998
+PAG_GRO-BOR_SAI	Haug et al. 2004
+PAG_GRO-BOR_SAI	Lindstrøm et al. 1998
+PAG_GRO-CLU_HAR	Lindstrøm et al. 1998
+PAG_GRO-GAD_MOR	Lindstrøm et al. 1998
+PAG_GRO-GON_FAB	Haug et al. 2004
+PAG_GRO-HIP_PLA	Haug et al. 2004
+PAG_GRO-HIP_PLA	Lindstrøm et al. 1998
+PAG_GRO-LIP_GIB	Haug et al. 2004
+PAG_GRO-LIP_MON	Haug et al. 2004
+PAG_GRO-MAL_VIL	Haug et al. 2004
+PAG_GRO-MAL_VIL	Lindstrøm et al. 1998
+PAG_GRO-MEG_NOR	Øigård et al. 2013
+PAG_GRO-PAN_BOR	Lawson et al. 1997
+PAG_GRO-PLE_PLA	Bodini et al. 2009
+PAG_GRO-POL_VIR	Bodini et al. 2009
+PAG_GRO-REI_HIP	Lawson et al. 1997
+PAG_GRO-REI_HIP	Finley & Gibb 1982
+PAG_GRO-SAB_SP	Lindstrøm et al. 1998
+PAG_GRO-SCA_INF	Lindstrøm et al. 1998
+PAG_GRO-SEB_MAR	Bodini et al. 2009
+PAG_GRO-THE_LIB	Sergeant 1973
+PAG_GRO-THY_INE	Sergeant 1973
+PAG_GRO-THY_LON	Sergeant 1973
+PAG_GRO-THY_RAS	Sergeant 1973
+PAG_SP-DET_IND	Bodini et al. 2009
+PAG_SP-PHY_IND	Bodini et al. 2009
+PAN_BOR-ARR_PHY	Wienberg 1980
+PAN_BOR-BEN_LAR	Ariza & Oullet 2009
+PAN_BOR-CAL_FIN	Ariza & Oullet 2009
+PAN_BOR-CAL_GLA	Ariza & Oullet 2009
+PAN_BOR-CAL_HYP	Ariza & Oullet 2009
+PAN_BOR-DET_IND	Wienberg 1980
+PAN_BOR-LUM_SP	Wienberg 1980
+PAN_BOR-MEG_NOR	Savenkoff et al. 2006
+PAN_BOR-NYC_COU	Wienberg 1980
+PAN_BOR-OIT_SIM	Savenkoff et al. 2006
+PAN_BOR-OIT_SPI	Savenkoff et al. 2006
+PAN_BOR-PAR_JEF	Wienberg 1980
+PAN_BOR-PHY_IND	Savenkoff et al. 2006
+PAN_BOR-PSE_SPP	Ariza & Oullet 2009
+PAN_BOR-SAG_SPP	Savenkoff et al. 2006
+PAN_BOR-SPI_TYP	Wienberg 1980
+PAN_BOR-THE_ABY	Savenkoff et al. 2006
+PAN_BOR-THE_LIB	Savenkoff et al. 2006
+PAN_BOR-THY_INE	Savenkoff et al. 2006
+PAN_BOR-THY_RAS	Savenkoff et al. 2006
+PAR_BAT-THE_ABY	Bjelland et al. 2000
+PAR_BAT-THE_LIB	Eriksen 2012
+PAR_CAM-AGL_MAL	Falk-Petersen et al. 2011
+PAR_CAM-AMM_SPP	Falk-Petersen et al. 2011
+PAR_CAM-APH_MAR	Falk-Petersen et al. 2011
+PAR_CAM-ARR_PHY	Falk-Petersen et al. 2011
+PAR_CAM-ASE_IND	Falk-Petersen et al. 2011
+PAR_CAM-AST_RUB	Britayev et al. 2010
+PAR_CAM-AST_RUB	Gudimov et al. 2003
+PAR_CAM-AST_SP	Falk-Petersen et al. 2011
+PAR_CAM-BAL_SP	Jørgensen & Nilssen 2011
+PAR_CAM-BRY_IND	Falk-Petersen et al. 2011
+PAR_CAM-BUC_SP	Jørgensen & Nilssen 2011
+PAR_CAM-CHA_SP	Falk-Petersen et al. 2011
+PAR_CAM-CHI_OPI	Falk-Petersen et al. 2011
+PAR_CAM-CHL_ISL	Falk-Petersen et al. 2011
+PAR_CAM-CHO_SP	Falk-Petersen et al. 2011
+PAR_CAM-CIO_INT	Britayev et al. 2010
+PAR_CAM-COL_SP	Gudimov et al. 2003
+PAR_CAM-COL_SP	Jørgensen & Nilssen 2011
+PAR_CAM-CRO_PAP	Britayev et al. 2010
+PAR_CAM-CRO_PAP	Gudimov et al. 2003
+PAR_CAM-CTE_CRI	Britayev et al. 2010
+PAR_CAM-CTE_CRI	Gudimov et al. 2003
+PAR_CAM-CYC_LUM	Falk-Petersen et al. 2011
+PAR_CAM-DET_IND	Falk-Petersen et al. 2011
+PAR_CAM-DIATOM	Falk-Petersen et al. 2011
+PAR_CAM-EUC_IND	Falk-Petersen et al. 2011
+PAR_CAM-FOR_IND	Falk-Petersen et al. 2011
+PAR_CAM-GAL_SP	Britayev et al. 2010
+PAR_CAM-GAL_SP	Falk-Petersen et al. 2011
+PAR_CAM-GAM_IND	Falk-Petersen et al. 2011
+PAR_CAM-GOR_SP	Falk-Petersen et al. 2011
+PAR_CAM-HET_FIL	Falk-Petersen et al. 2010
+PAR_CAM-HYA_SP	Falk-Petersen et al. 2011
+PAR_CAM-LUM_MIN	Falk-Petersen et al. 2011
+PAR_CAM-LUM_SP	Falk-Petersen et al. 2011
+PAR_CAM-MAC_IND	Britayev et al. 2010
+PAR_CAM-MAC_SP	Falk-Petersen et al. 2011
+PAR_CAM-MAL_SAR	Britayev et al. 2010
+PAR_CAM-MAL_VIL	Falk-Petersen et al. 2011
+PAR_CAM-MEN_FER	Falk-Petersen et al. 2011
+PAR_CAM-MOL_BOR	Falk-Petersen et al. 2011
+PAR_CAM-OPH_ACU	Britayev et al. 2010
+PAR_CAM-OPH_BID	Falk-Petersen et al. 2011
+PAR_CAM-OPH_BOR	Britayev et al. 2010
+PAR_CAM-OPH_GLA	Britayev et al. 2010
+PAR_CAM-OPH_SER	Britayev et al. 2010
+PAR_CAM-OPH_SP	Jørgensen & Nilssen 2011
+PAR_CAM-OST_IND	Falk-Petersen et al. 2011
+PAR_CAM-PAG_SP	Falk-Petersen et al. 2011
+PAR_CAM-PAN_BOR	Falk-Petersen et al. 2011
+PAR_CAM-PAR_CAM	Falk-Petersen et al. 2011
+PAR_CAM-PHA_STR	Falk-Petersen et al. 2011
+PAR_CAM-POLY_IND	Falk-Petersen et al. 2011
+PAR_CAM-PON_TEN	Britayev et al. 2010
+PAR_CAM-PON_TEN	Gudimov et al. 2003
+PAR_CAM-PYC_G_SP	Falk-Petersen et al. 2011
+PAR_CAM-SCL_SP	Falk-Petersen et al. 2011
+PAR_CAM-SIM_GRE	Falk-Petersen et al. 2011
+PAR_CAM-SPI_TYP	Falk-Petersen et al. 2011
+PAR_CAM-STRO_SP	Falk-Petersen et al. 2011
+PAR_CAM-THY_GOU	Falk-Petersen et al. 2011
+PAR_CAM-THY_INE	Falk-Petersen et al. 2011
+PAR_CAM-THY_LON	Falk-Petersen et al. 2011
+PAR_CAM-THY_RAS	Falk-Petersen et al. 2011
+PAR_CAM-URA_LIN	Falk-Petersen et al. 2011
+PAR_CAM-YOL_SOL	Falk-Petersen et al. 2011
+PHO_HIS-AMM_SPP	Dehn et al. 2007
+PHO_HIS-ANI_MED	Andersen et al. 2004
+PHO_HIS-ARC_GLA	Labansen et al. 2011
+PHO_HIS-AST_SP	Labansen et al. 2011
+PHO_HIS-BOR_SAI	Labansen et al. 2011
+PHO_HIS-FOR_IND	Labansen et al. 2011
+PHO_HIS-GAD_MOR	Labansen et al. 2011
+PHO_HIS-GAM_WIL	Bradstreet & Cross 1982
+PHO_HIS-GON_FAB	Labansen et al. 2011
+PHO_HIS-HIP_PLA	Labansen et al. 2011
+PHO_HIS-LIP_FAB	Labansen et al. 2011
+PHO_HIS-LIP_GIB	Labansen et al. 2011
+PHO_HIS-LIP_MON	Labansen et al. 2011
+PHO_HIS-LYC_ESM	Dehn et al. 2007
+PHO_HIS-LYC_ESM	Weslawski et al. 1994
+PHO_HIS-LYC_RET	Dehn et al. 2007
+PHO_HIS-LYC_SEM	Dehn et al. 2007
+PHO_HIS-MEL_AEG	Labansen et al. 2011
+PHO_HIS-ONI_GLA	Weslawski et al. 1994
+PHO_HIS-ONI_GLA	Labansen et al. 2011
+PHO_HIS-PAN_BOR	Labansen et al. 2011
+PHO_HIS-SAB_SP	Labansen et al. 2011
+PHO_HIS-SAB_SP	Weslawski et al. 1994
+PHO_HIS-SCL_SP	Labansen et al. 2011
+PHO_HIS-SEB_MAR	Bodini et al. 2009
+PHO_HIS-SEB_MEN	Bodini et al. 2009
+PHO_HIS-SEB_SPP	Labansen et al. 2011
+PHO_HIS-THE_LIB	Weslawski et al. 1994
+PHO_HIS-THE_LIB	Labansen et al. 2011
+PHO_HIS-THY_INE	Weslawski et al. 1994
+PHO_HIS-THY_INE	Labansen et al. 2011
+PHO_HIS-THY_LON	Weslawski et al. 1994
+PHO_HIS-THY_RAS	Weslawski et al. 1994
+PHO_HIS-YOL_SOL	Labansen et al. 2011
+PHO_PHO-AMM_SPP	Santos & Pierce 2003
+PHO_PHO-AMM_SPP	Vikingsson et al. 2003
+PHO_PHO-AMM_SPP	Aarefjord et al. 1995
+PHO_PHO-ANA_LUP	Vikingsson et al. 2003
+PHO_PHO-ARG_SP	Aarefjord et al. 1995
+PHO_PHO-ART_ATL	Aarefjord et al. 1995
+PHO_PHO-BOR_SAI	Vikingsson et al. 2003
+PHO_PHO-CLU_HAR	Santos & Pierce 2003
+PHO_PHO-CLU_HAR	Aarefjord et al. 1995
+PHO_PHO-FI_LA	Santos & Pierce 2003
+PHO_PHO-FI_LA	Aarefjord et al. 1995
+PHO_PHO-GAD_ARG	Aarefjord et al. 1995
+PHO_PHO-GAD_MOR	Santos & Pierce 2003
+PHO_PHO-GAD_MOR	Aarefjord et al. 1995
+PHO_PHO-GON_FAB	Flinn et al. 2002
+PHO_PHO-GON_FAB	Santos et al. 2002
+PHO_PHO-GON_FAB	Santos & Pierce 2003
+PHO_PHO-GON_FAB	Vikingsson et al. 2003
+PHO_PHO-HIP_PLA	Vikingsson et al. 2003
+PHO_PHO-HIP_PLA	Aarefjord et al. 1995
+PHO_PHO-LEP_MAC	Vikingsson et al. 2003
+PHO_PHO-LIP_MON	Aarefjord et al. 1995
+PHO_PHO-LUM_LAM	Vikingsson et al. 2003
+PHO_PHO-MAL_VIL	Santos & Pierce 2003
+PHO_PHO-MAL_VIL	Aarefjord et al. 1995
+PHO_PHO-MAU_MUE	Aarefjord et al. 1995
+PHO_PHO-MEL_AEG	Vikingsson et al. 2003
+PHO_PHO-MEL_AEG	Aarefjord et al. 1995
+PHO_PHO-MER_MER	Santos & Pierce 2003
+PHO_PHO-MER_MER	Vikingsson et al. 2003
+PHO_PHO-MER_MER	Aarefjord et al. 1995
+PHO_PHO-MIC_KIT	Vikingsson et al. 2003
+PHO_PHO-MIC_KIT	Aarefjord et al. 1995
+PHO_PHO-MIC_POU	Santos & Pierce 2003
+PHO_PHO-MIC_POU	Vikingsson et al. 2003
+PHO_PHO-MOL_MOL	Vikingsson et al. 2003
+PHO_PHO-MOL_MOL	Aarefjord et al. 1995
+PHO_PHO-PAN_BOR	Santos & Pierce 2003
+PHO_PHO-PLE_PLA	Vikingsson et al. 2003
+PHO_PHO-POL_POL	Aarefjord et al. 1995
+PHO_PHO-ROS_SP	Vikingsson et al. 2003
+PHO_PHO-SEB_MAR	Santos & Pierce 2003
+PHO_PHO-TRI_ESM	Bodini et al. 2009
+PHY_MAC-GON_FAB	Flinn et al. 2002
+PHY_MAC-GON_FAB	Santos et al. 2002
+PHY_MAC-POL_VIR	Santos et al. 2002
+PLE_PLA-AMM_SPP	Braber & Groot 1973
+PLE_PLA-AST_RUB	Braber & Groot 1973
+PLE_PLA-AST_SP	Antipova & Kovzova 1982
+PLE_PLA-BAL_SP	Antipova & Kovzova 1982
+PLE_PLA-BUC_SP	Antipova & Kovzova 1982
+PLE_PLA-CHL_ISL	Antipova & Kovzova 1982
+PLE_PLA-CUC_FRO	Templeman 1982
+PLE_PLA-FI_LA	Braber & Groot 1973
+PLE_PLA-GAM_IND	Antipova & Kovzova 1982
+PLE_PLA-GAM_WIL	Bodini et al. 2009
+PLE_PLA-MAC_SP	Antipova & Kovzova 1982
+PLE_PLA-MAL_SAR	Antipova & Kovzova 1982
+PLE_PLA-MEG_NOR	Hinz et al. 2005
+PLE_PLA-OPH_ACU	Antipova & Kovzova 1982
+PLE_PLA-OPH_SP	Hinz et al. 2005
+PLE_PLA-OST_IND	Braber & Groot 1973
+PLE_PLA-PAG_SP	Antipova & Kovzova 1982
+PLE_PLA-POL_IND	Braber & Groot 1973
+PLE_PLA-SPI_TYP	Antipova & Kovzova 1982
+PLE_PLA-STRO_SP	Antipova & Kovzova 1982
+PLE_PLA-TER_STRO	Antipova & Kovzova 1982
+PLE_PLA-THY_GOU	Antipova & Kovzova 1982
+PLE_PLA-THY_INE	Antipova & Kovzova 1982
+PLE_PLA-THY_LON	Antipova & Kovzova 1982
+PLE_PLA-THY_RAS	Antipova & Kovzova 1982
+PLE_PLA-YOL_SOL	Antipova & Kovzova 1982
+POL_POL-AMM_SPP	Høines & Bergstad 1999
+POL_POL-AMM_SPP	Sarno et al. 1994
+POL_POL-CAL_FIN	Sarno et al. 1994
+POL_POL-CAL_GLA	Sarno et al. 1994
+POL_POL-CAL_HYP	Sarno et al. 1994
+POL_POL-CLU_HAR	Høines & Bergstad 1999
+POL_POL-FI_LA	Mironova 1961
+POL_POL-GAD_MOR	Sarno et al. 1994
+POL_POL-GON_FAB	Bjelland et al. 2000
+POL_POL-MEG_NOR	Høines & Bergstad 1999
+POL_POL-MEL_AEG	Høines & Bergstad 1999
+POL_POL-MET_LON	Sarno et al. 1994
+POL_POL-MIC_SPP	Sarno et al. 1994
+POL_POL-OIT_SIM	Sarno et al. 1994
+POL_POL-PAN_BOR	Høines & Bergstad 1999
+POL_POL-ROS_SP	Sarno et al. 1994
+POL_POL-THY_LON	Sarno et al. 1994
+POL_POL-THY_RAS	Sarno et al. 1994
+POL_POL-TRI_ESM	Høines & Bergstad 1999
+POL_VIR-ACA_SPP	Mironova 1957
+POL_VIR-AMM_SPP	Høines & Bergstad 1999
+POL_VIR-AMM_SPP	Carruthers et al. 2005
+POL_VIR-ARG_SP	Du Buit 1991
+POL_VIR-BAL_SP	Mironova 1957
+POL_VIR-CAL_FIN	Salvanes & Nordeide 1993
+POL_VIR-CAL_GLA	Bodini et al. 2009
+POL_VIR-CAL_HYP	Mironova 1957
+POL_VIR-CLU_HAR	Høines & Bergstad 1999
+POL_VIR-GAD_ARG	Du Buit 1991
+POL_VIR-GAD_MOR	Mironova 1961
+POL_VIR-GLY_CYN	Carruthers et al. 2005
+POL_VIR-HIP_PLA	Yano et al. 2007
+POL_VIR-HYA_SP	Mironova 1957
+POL_VIR-MAL_VIL	Mironova 1961
+POL_VIR-MAU_MUE	Salvanes & Nordeide 1993
+POL_VIR-MEG_NOR	Høines & Bergstad 1999
+POL_VIR-MEL_AEG	Høines & Bergstad 1999
+POL_VIR-MET_LON	Mironova 1957
+POL_VIR-MIC_POU	Salvanes & Nordeide 1993
+POL_VIR-MYO_SCO	Mironova 1957
+POL_VIR-OIT_SIM	Mironova 1957
+POL_VIR-OST_IND	Mironova 1957
+POL_VIR-PAN_BOR	Høines & Bergstad 1999
+POL_VIR-PAN_BOR	Du Buit 1991
+POL_VIR-POL_VIR	Mironova 1961
+POL_VIR-PSE_SPP	Mironova 1957
+POL_VIR-SEB_SPP	Mironova 1961
+POL_VIR-THE_ABY	Du Buit 1991
+POL_VIR-THE_LIB	Du Buit 1991
+POL_VIR-THY_INE	Andriyashev 1954
+POL_VIR-THY_INE	Mironova 1957
+POL_VIR-THY_LON	Andriyashev 1954
+POL_VIR-THY_RAS	Andriyashev 1954
+POL_VIR-TRI_ESM	Høines & Bergstad 1999
+POLY_IND-BRY_IND	Plyuscheva et al. 2004
+POLY_IND-CHO_SP	Fauchald & Jumars 1979
+POLY_IND-DET_IND	Fauchald & Jumars 1979
+POLY_IND-DIATOM	Plyuscheva et al. 2004
+POLY_IND-FOR_IND	Plyuscheva et al. 2004
+POLY_IND-GAM_IND	Fauchald & Jumars 1979
+POLY_IND-GAM_IND	Plyuscheva et al. 2004
+POLY_IND-LUM_SP	Fauchald & Jumars 1979
+POLY_IND-MOL_BOR	Fauchald & Jumars 1979
+POLY_IND-OST_IND	Plyuscheva et al. 2004
+POLY_IND-POL_IND	Plyuscheva et al. 2004
+POLY_IND-POLY_IND	Plyuscheva et al. 2004
+POLY_IND-POR_G_SP	Fauchald & Jumars 1979
+PON_NOR-CAL_FIN	Bodini et al. 2009
+PON_NOR-CAL_GLA	Bodini et al. 2009
+PON_NOR-CAL_HYP	Bodini et al. 2009
+PON_NOR-MET_LON	Bodini et al. 2009
+PON_NOR-MIC_SPP	Bodini et al. 2009
+PON_NOR-OIT_SIM	Bodini et al. 2009
+POR_G_SP-BAC_IND	Bell 2008
+POR_G_SP-PHY_IND	Bell 2008
+PROZOO-AUT_FLA	Gissel Nielsen 2005
+PROZOO-BAC_IND	Gissel Nielsen 2005
+PROZOO-HET_FLA	Gissel Nielsen 2005
+PROZOO-PROZOO	Gissel Nielsen 2005
+PSE_SPP-DET_IND	Turner 1984
+PSE_SPP-DIATOM	Turner 1984
+PSE_SPP-PSE_SPP	Turner 1984
+PYC_G_SP-DET_IND	Arnaud & Bamber 1987
+PYC_G_SP-GEO_SP	Arnaud & Bamber 1987
+PYC_G_SP-POL_IND	Arnaud & Bamber 1987
+PYC_G_SP-POR_G_SP	Arnaud & Bamber 1987
+RAJ_FYL-MAL_VIL	Dolgov 2005
+RAJ_FYL-PAN_BOR	Gonzáles et al. 2006
+RAJ_FYL-PAR_CAM	Bodini et al. 2009
+RAJ_FYL-SAB_SP	Bodini et al. 2009
+RAJ_FYL-THY_INE	Bodini et al. 2009
+RAJ_FYL-THY_LON	Bodini et al. 2009
+RAJ_FYL-THY_RAS	Bodini et al. 2009
+REI_HIP-AMM_SPP	Michalsen & Nedreaas 1998
+REI_HIP-BOR_SAI	Vollen 2004
+REI_HIP-CLU_HAR	Bjelland et al. 2000
+REI_HIP-CLU_HAR	Michalsen & Nedreaas 1998
+REI_HIP-COT_MIC	Michalsen & Nedreaas 1998
+REI_HIP-GAD_MOR	Vollen 2004
+REI_HIP-GAI_ARG	Michalsen & Nedreaas 1998
+REI_HIP-GAM_IND	Bjelland et al. 2000
+REI_HIP-GON_FAB	Bjelland et al. 2000
+REI_HIP-GON_FAB	Vollen 2004
+REI_HIP-HIP_PLA	Woll & Gundersen 2004
+REI_HIP-LYC_SEM	Woll & Gundersen 2004
+REI_HIP-MAL_VIL	Bjelland et al. 2000
+REI_HIP-MEG_NOR	Bjelland et al. 2000
+REI_HIP-MIC_POU	Dolgov et al. 2010
+REI_HIP-MIC_POU	Michalsen & Nedreaas 1998
+REI_HIP-OPH_SP	Michalsen & Nedreaas 1998
+REI_HIP-PAN_BOR	Bjelland et al. 2000
+REI_HIP-PAN_BOR	Woll & Gundersen 2004
+REI_HIP-PAN_BOR	Michalsen & Nedreaas 1998
+REI_HIP-POL_IND	Michalsen & Nedreaas 1998
+REI_HIP-PON_NOR	Michalsen & Nedreaas 1998
+REI_HIP-POR_G_SP	Rodríguez-Marín et al. 1994
+REI_HIP-POR_G_SP	Komarova 1939
+REI_HIP-REI_HIP	Michalsen & Nedreaas 1998
+REI_HIP-SAB_SP	Vollen 2004
+REI_HIP-SEB_MAR	Bodini et al. 2009
+REI_HIP-SEB_MEN	Michalsen & Nedreaas 1998
+REI_HIP-SEB_SPP	Woll & Gundersen 2004
+REI_HIP-SEB_SPP	Rodríguez-Marín et al. 1994
+REI_HIP-THE_LIB	Michalsen & Nedreaas 1998
+RIS_TRI-BOR_SAI	Erikstad 1990
+RIS_TRI-GAD_MOR	Bugge et al. 2011
+RIS_TRI-GON_FAB	Erikstad 1990
+RIS_TRI-MAL_VIL	Dolgov 2002
+RIS_TRI-SEB_MAR	Erikstad 1990
+RIS_TRI-SEB_MEN	Erikstad 1990
+ROS_SP-ARR_PHY	Vafidis et al. 2009
+ROS_SP-FI_LA	Vafidis et al. 2009
+ROS_SP-POL_IND	Vafidis et al. 2009
+ROS_SP-RHA_SP	Vafidis et al. 2009
+SAB_SP-CAL_FIN	Bodini et al. 2009
+SAB_SP-CAL_GLA	Bodini et al. 2009
+SAB_SP-CAL_HYP	Bodini et al. 2009
+SAB_SP-MET_LON	Bodini et al. 2009
+SAB_SP-MIC_SPP	Bodini et al. 2009
+SAB_SP-OIT_SIM	Bodini et al. 2009
+SAB_SP-PHY_IND	Graeve et al. 1997
+SAG_SPP-ACA_SPP	Tönnesson & Tiselius 2005
+SAG_SPP-AUT_FLA	Vega-Perez & Liang 1992
+SAG_SPP-CAL_FIN	Tönnesson & Tiselius 2005
+SAG_SPP-CAL_GLA	Bodini et al. 2009
+SAG_SPP-CAL_HYP	Bodini et al. 2009
+SAG_SPP-EUC_IND	Terazaki 1996
+SAG_SPP-FOR_IND	Terazaki 1996
+SAG_SPP-LIM_HEL	Lalli 1970
+SAG_SPP-MET_LON	Bodini et al. 2009
+SAG_SPP-OIK_SPP	Tönnesson & Tiselius 2005
+SAG_SPP-OIT_SIM	Tönnesson & Tiselius 2005
+SAG_SPP-PSE_SPP	Tönnesson & Tiselius 2005
+SAR_SPP-ACA_SPP	Moller & Riisgard 2007
+SAR_SPP-CAL_FIN	Matsakis & Conover 1991
+SAR_SPP-OIT_SIM	Matsakis & Conover 1991
+SAR_SPP-PSE_SPP	Matsakis & Conover 1991
+SCL_SP-AUT_FLA	Graeve et al. 1997
+SCL_SP-BAL_SP	Bjørdalsbakke 2011
+SCL_SP-HYD_IND	Birkely & Gulliksen 2003
+SCL_SP-OPH_ACU	Bjørdalsbakke 2011
+SCL_SP-OPH_BOR	Bjørdalsbakke 2011
+SCL_SP-OPH_GLA	Bjørdalsbakke 2011
+SCL_SP-OPH_SP	Bjørdalsbakke 2011
+SCL_SP-POL_IND	Bjørdalsbakke 2011
+SCL_SP-STRO_SP	Bjørdalsbakke 2011
+SCO_SCO-ACA_SPP	Darbyson et al. 2003
+SCO_SCO-AMM_SPP	Darbyson et al. 2003
+SCO_SCO-APH_GLA	Darbyson et al. 2003
+SCO_SCO-ARG_SP	Cabral & Murta 2002
+SCO_SCO-CAL_FIN	Darbyson et al. 2003
+SCO_SCO-FI_LA	Darbyson et al. 2003
+SCO_SCO-GAM_IND	Darbyson et al. 2003
+SCO_SCO-LIM_HEL	Skjoldal et al. 2004
+SCO_SCO-LIM_RET	Skjoldal et al. 2004
+SCO_SCO-MEG_NOR	Darbyson et al. 2003
+SCO_SCO-MIC_POU	Cabral & Murta 2002
+SCO_SCO-NYC_COU	Cabral & Murta 2002
+SCO_SCO-PAN_BOR	Bjelland et al. 2000
+SCO_SCO-THE_ABY	Darbyson et al. 2003
+SCO_SCO-THE_LIB	Darbyson et al. 2003
+SCO_SCO-THY_INE	Darbyson et al. 2003
+SCO_SCO-THY_LON	Darbyson et al. 2003
+SCO_SCO-THY_RAS	Darbyson et al. 2003
+SEB_MAR-CAL_HYP	Jaworski & Ragnarsson 2006
+SEB_MAR-CLU_HAR	Andriyashev 1954
+SEB_MAR-GAD_MOR	Jaworski & Ragnarsson 2006
+SEB_MAR-MAL_VIL	Jaworski & Ragnarsson 2006
+SEB_MAR-MEG_NOR	Jaworski & Ragnarsson 2006
+SEB_MAR-MER_OVU	Andriyashev 1954
+SEB_MAR-PAN_BOR	Parsons 2005
+SEB_MAR-REI_HIP	Bodini et al. 2009
+SEB_MAR-THY_INE	Jaworski & Ragnarsson 2006
+SEB_MAR-THY_LON	Bodini et al. 2009
+SEB_MAR-THY_RAS	Bodini et al. 2009
+SEB_MEN-ACT_G_SP	Dolgov & Drevetnyak 1993
+SEB_MEN-ARR_PHY	Dolgov & Drevetnyak 1993
+SEB_MEN-AST_SP	Dolgov & Drevetnyak 1993
+SEB_MEN-BAT_GLA	Dolgov & Drevetnyak 1993
+SEB_MEN-BER_SP	Dolgov & Drevetnyak 1993
+SEB_MEN-BOL_INF	Dolgov & Drevetnyak 1993
+SEB_MEN-BOR_SAI	Dolgov & Drevetnyak 1993
+SEB_MEN-CAL_FIN	Dolgov & Drevetnyak 1993
+SEB_MEN-CAL_GLA	Dolgov & Drevetnyak 1993
+SEB_MEN-CAL_HYP	Dolgov & Drevetnyak 1993
+SEB_MEN-CLI_LIM	Dolgov & Drevetnyak 1993
+SEB_MEN-CLU_HAR	Dolgov & Drevetnyak 1993
+SEB_MEN-CUC_FRO	Dolgov & Drevetnyak 1993
+SEB_MEN-GAD_MOR	Bodini et al. 2009
+SEB_MEN-GAM_IND	Dolgov & Drevetnyak 1993
+SEB_MEN-GAM_WIL	Dolgov & Drevetnyak 1993
+SEB_MEN-HIP_PLA	Dolgov & Drevetnyak 1993
+SEB_MEN-HYA_SP	Dolgov & Drevetnyak 1993
+SEB_MEN-LIM_HEL	Dolgov & Drevetnyak 1993
+SEB_MEN-LIM_RET	Dolgov & Drevetnyak 1993
+SEB_MEN-MAC_SP	Dolgov & Drevetnyak 1993
+SEB_MEN-MAL_VIL	Dolgov & Drevetnyak 1993
+SEB_MEN-MEG_NOR	Bodini et al. 2009
+SEB_MEN-MEL_AEG	Dolgov & Drevetnyak 1993
+SEB_MEN-MET_LON	Bodini et al. 2009
+SEB_MEN-MIC_POU	Dolgov & Drevetnyak 1993
+SEB_MEN-MOL_BOR	Dolgov & Drevetnyak 1993
+SEB_MEN-OIK_DIO	Dolgov & Drevetnyak 1993
+SEB_MEN-OIK_SPP	Dolgov & Drevetnyak 1993
+SEB_MEN-OIK_VAN	Dolgov & Drevetnyak 1993
+SEB_MEN-PAN_BOR	Parsons 2005
+SEB_MEN-PAN_BOR	González et al. 1999
+SEB_MEN-PAR_GLA	Dolgov & Drevetnyak 1993
+SEB_MEN-PAR_NOR	Dolgov & Drevetnyak 1993
+SEB_MEN-PAR_SPP	Dolgov & Drevetnyak 1993
+SEB_MEN-POL_VIR	Dolgov & Drevetnyak 1993
+SEB_MEN-PSE_SPP	Bodini et al. 2009
+SEB_MEN-RHA_SP	Dolgov & Drevetnyak 1993
+SEB_MEN-SAG_SPP	Dolgov & Drevetnyak 1993
+SEB_MEN-SEB_MAR	Bodini et al. 2009
+SEB_MEN-SEB_MEN	Bodini et al. 2009
+SEB_MEN-SEB_SPP	Dolgov & Drevetnyak 1993
+SEB_MEN-SEB_VIV	Bodini et al. 2009
+SEB_MEN-STI_TRE	Dolgov & Drevetnyak 1993
+SEB_MEN-THE_ABY	González et al. 1999
+SEB_MEN-THE_LIB	González et al. 1999
+SEB_MEN-THY_GOU	Dolgov & Drevetnyak 1993
+SEB_MEN-THY_INE	Bodini et al. 2009
+SEB_MEN-THY_LON	Bodini et al. 2009
+SEB_MEN-THY_RAS	Bodini et al. 2009
+SEB_MEN-YOL_SOL	Dolgov & Drevetnyak 1993
+SEB_SPP-AMM_SPP	IMR-PINRO report 1994
+SEB_SPP-CAL_FIN	Dolgov & Drevetnyak 1993
+SEB_SPP-CLI_LIM	Dolgov & Drevetnyak 1993
+SEB_SPP-GAM_IND	IMR-PINRO report 1994
+SEB_SPP-MEG_NOR	IMR-PINRO report 1994
+SEB_SPP-MET_LON	IMR-PINRO report 1994
+SEB_SPP-OIK_SPP	IMR-PINRO report 1994
+SEB_SPP-OIK_VAN	IMR-PINRO report 1994
+SEB_SPP-PAN_BOR	Román et al. 2004
+SEB_SPP-PAR_NOR	IMR-PINRO report 1994
+SEB_SPP-POL_IND	Román et al. 2004
+SEB_SPP-SAG_SPP	Rodríguez-Marín et al. 1994
+SEB_SPP-THE_ABY	Rodríguez-Marín et al. 1994
+SEB_SPP-THE_LIB	Rodríguez-Marín et al. 1994
+SEB_SPP-THY_INE	Román et al. 2004
+SIM_GRE-PHY_IND	Gallagher et al. 1998
+SIM_GRE-PHY_IND	Ruppert & Barnes 1994
+SOM_MIC-ANA_DEN	Yano et al. 2007
+SOM_MIC-ANA_LUP	McMeans et al. 2010
+SOM_MIC-ANA_LUP	Yano et al. 2007
+SOM_MIC-ANA_LUP	Leclerc et al. 2011
+SOM_MIC-ANA_MIN	McMeans et al. 2010
+SOM_MIC-ANA_MIN	Leclerc et al. 2011
+SOM_MIC-ARG_SP	McMeans et al. 2010
+SOM_MIC-ART_ATL	Yano et al. 2007
+SOM_MIC-ASC_G_SP	Leclerc et al. 2011
+SOM_MIC-AUR_AUR	Yano et al. 2007
+SOM_MIC-BAL_ACU	Leclerc et al. 2011
+SOM_MIC-BOL_INF	Yano et al. 2007
+SOM_MIC-BOR_SAI	Yano et al. 2007
+SOM_MIC-BRO_BRO	McMeans et al. 2010
+SOM_MIC-CAR_SPP	Yano et al. 2007
+SOM_MIC-CLU_HAR	McMeans et al. 2010
+SOM_MIC-COT_MIC	Yano et al. 2007
+SOM_MIC-CYC_LUM	McMeans et al. 2010
+SOM_MIC-CYC_LUM	Yano et al. 2007
+SOM_MIC-ERI_BAR	Yano et al. 2007
+SOM_MIC-ERI_BAR	Leclerc et al. 2011
+SOM_MIC-EUP_FLAM	Yano et al. 2007
+SOM_MIC-GAD_MOR	McMeans et al. 2010
+SOM_MIC-GAD_MOR	Yano et al. 2007
+SOM_MIC-GAD_MOR	Leclerc et al. 2011
+SOM_MIC-GON_FAB	Yano et al. 2007
+SOM_MIC-GOR_SP	Leclerc et al. 2011
+SOM_MIC-HIP_HIP	Yano et al. 2007
+SOM_MIC-HIP_PLA	Yano et al. 2007
+SOM_MIC-HYA_SP	Leclerc et al. 2011
+SOM_MIC-LEP_DEC	Yano et al. 2007
+SOM_MIC-LIM_LIM	McMeans et al. 2010
+SOM_MIC-LIP_FAB	Yano et al. 2007
+SOM_MIC-LIP_GIB	Yano et al. 2007
+SOM_MIC-LIP_MON	Yano et al. 2007
+SOM_MIC-LYC_EUD	Yano et al. 2007
+SOM_MIC-MAL_VIL	Bodini et al. 2009
+SOM_MIC-MEL_AEG	McMeans et al. 2010
+SOM_MIC-MEL_AEG	Leclerc et al. 2011
+SOM_MIC-MER_OVU	Yano et al. 2007
+SOM_MIC-MOL_MOL	McMeans et al. 2010
+SOM_MIC-OPH_ACU	Leclerc et al. 2011
+SOM_MIC-OPH_SP	Yano et al. 2007
+SOM_MIC-OPH_SP	Leclerc et al. 2011
+SOM_MIC-PAN_BOR	Yano et al. 2007
+SOM_MIC-PHO_HIS	Yano et al. 2007
+SOM_MIC-PLE_PLA	McMeans et al. 2010
+SOM_MIC-POL_IND	Leclerc et al. 2011
+SOM_MIC-POL_VIR	McMeans et al. 2010
+SOM_MIC-REI_HIP	McMeans et al. 2010
+SOM_MIC-REI_HIP	Yano et al. 2007
+SOM_MIC-SEB_MAR	McMeans et al. 2010
+SOM_MIC-SEB_MAR	Yano et al. 2007
+SOM_MIC-SEB_MAR	Leclerc et al. 2011
+SOM_MIC-SEB_MEN	McMeans et al. 2010
+SOM_MIC-SEB_MEN	Yano et al. 2007
+SOM_MIC-SEB_MEN	Leclerc et al. 2011
+SOM_MIC-SOM_MIC	Leclerc et al. 2011
+SOM_MIC-SQU_ACA	Bodini et al. 2009
+SOM_MIC-STRO_SP	Leclerc et al. 2011
+SOM_MIC-TRI_NYB	Yano et al. 2007
+SOM_MIC-URS_MAR	McMeans et al. 2010
+SQU_ACA-AMM_SPP	Bodini et al. 2009
+SQU_ACA-ANA_DEN	Bodini et al. 2009
+SQU_ACA-ANA_LUP	Bodini et al. 2009
+SQU_ACA-ANA_MIN	Bodini et al. 2009
+SQU_ACA-AUR_AUR	Laptikhovsky et al. 2001
+SQU_ACA-BOL_INF	Bodini et al. 2009
+SQU_ACA-CLU_HAR	Bodini et al. 2009
+SQU_ACA-EUP_FLAM	Bodini et al. 2009
+SQU_ACA-GAD_MOR	Bodini et al. 2009
+SQU_ACA-LIM_LIM	Bodini et al. 2009
+SQU_ACA-MEL_AEG	Bodini et al. 2009
+SQU_ACA-MER_OVU	Bodini et al. 2009
+SQU_ACA-PLE_PLA	Bodini et al. 2009
+SQU_ACA-REI_HIP	Bodini et al. 2009
+STI_TRE-AUT_FLA	Hudson et al. 2004
+STI_TRE-DET_IND	Hudson et al. 2004
+STI_TRE-DIATOM	Hudson et al. 2004
+STI_TRE-FOR_IND	Hudson et al. 2004
+STI_TRE-HET_FLA	Hudson et al. 2004
+STRO_SP-MAC_IND	Vadas 1977
+STRO_SP-MAC_IND	Ahn et al. 2009
+TER_STRO-AUT_FLA	Fauchald & Jumars 1979
+TER_STRO-DIATOM	Fauchald & Jumars 1979
+TER_STRO-HET_FLA	Fauchald & Jumars 1979
+THE_ABY-CAL_FIN	Auel et al. 2002
+THE_ABY-CAL_GLA	Bodini et al. 2009
+THE_ABY-CAL_HYP	Bodini et al. 2009
+THE_ABY-MET_LON	Bodini et al. 2009
+THE_ABY-MIC_SPP	Bodini et al. 2009
+THE_ABY-OIT_SIM	Bodini et al. 2009
+THE_ABY-PHY_IND	Scott et al. 1999
+THE_LIB-CAL_FIN	Auel et al. 2002
+THE_LIB-CAL_GLA	Bodini et al. 2009
+THE_LIB-CAL_HYP	Auel et al. 2002
+THE_LIB-MET_LON	Bodini et al. 2009
+THE_LIB-MIC_SPP	Bodini et al. 2009
+THE_LIB-OIT_SIM	Bodini et al. 2009
+THY_GOU-DIATOM	Kedra et al. 2010
+THY_GOU-DIATOM	Young & Rhoads 1971
+THY_INE-AUT_FLA	Sameoto 1980
+THY_INE-BEN_LAR	Sameoto 1980
+THY_INE-CAL_FIN	Båmstedt & Karlson 1998
+THY_INE-CAL_GLA	Båmstedt & Karlson 1998
+THY_INE-CAL_HYP	Båmstedt & Karlson 1998
+THY_INE-HET_FLA	Sameoto 1980
+THY_LON-AUT_FLA	Sameoto 1980
+THY_LON-CAL_FIN	Båmstedt & Karlson 1998
+THY_LON-CAL_GLA	Båmstedt & Karlson 1998
+THY_LON-CAL_HYP	Båmstedt & Karlson 1998
+THY_LON-FI_LA	Sameoto 1980
+THY_LON-HET_FLA	Sameoto 1980
+THY_RAS-AUT_FLA	Sameoto 1980
+THY_RAS-CAL_FIN	Båmstedt & Karlson 1998
+THY_RAS-CAL_GLA	Båmstedt & Karlson 1998
+THY_RAS-CAL_HYP	Båmstedt & Karlson 1998
+THY_RAS-FI_LA	Sameoto 1980
+THY_RAS-HET_FLA	Sameoto 1980
+THY_RAS-THY_RAS	Agersted et al. 2011
+TRI_ESM-APH_GLA	Bodini et al. 2009
+TRI_ESM-CAL_FIN	Albert 1995
+TRI_ESM-CAL_FIN	
+TRI_ESM-CAL_GLA	Bodini et al. 2009
+TRI_ESM-CAL_HYP	Bodini et al. 2009
+TRI_ESM-ERY_SP	Mattson 1981
+TRI_ESM-EUK_HAM	Mattson 1981
+TRI_ESM-GAM_IND	Albert 1995
+TRI_ESM-GAM_WIL	Bodini et al. 2009
+TRI_ESM-LUM_SP	Mattson 1981
+TRI_ESM-MEG_NOR	Mattson 1981
+TRI_ESM-MET_LON	Mattson 1981
+TRI_ESM-OIT_SIM	Bodini et al. 2009
+TRI_ESM-ONI_GLA	Bodini et al. 2009
+TRI_ESM-ONI_NAN	Bodini et al. 2009
+TRI_ESM-OPH_ACU	Eriksen 2012
+TRI_ESM-OST_IND	Pethon 1994
+TRI_ESM-PAN_BOR	Albert 1995
+TRI_ESM-PAR_NOR	Mattson 1981
+TRI_ESM-PON_NOR	Albert 1995
+TRI_ESM-PSE_SPP	Bodini et al. 2009
+TRI_ESM-ROS_SP	Mattson 1981
+TRI_ESM-SAG_SPP	Mattson 1981
+TRI_ESM-STRO_SP	Eriksen 2012
+TRI_ESM-THE_ABY	Mattson 1981
+TRI_ESM-THY_INE	Mattson 1981
+TRI_ESM-THY_RAS	Mattson 1981
+TRI_MUR-CAL_FIN	Atkinson & Percy 1991
+TRI_MUR-CAL_GLA	Atkinson & Percy 1992
+TRI_MUR-CAL_HYP	Bodini et al. 2009
+TRI_MUR-MAL_VIL	Dolgov 2002
+TRI_MUR-THY_INE	Atkinson & Percy 1992
+TRI_MUR-THY_INE	Atkinson & Percy 1991
+TRI_NYB-CAL_HYP	Andriyashev 1954
+TRI_NYB-CAL_HYP	Ottensen 2004
+TRI_NYB-POL_IND	Andriyashev 1954
+TRI_NYB-POL_IND	Ottensen 2004
+TRI_NYB-POL_IND	Bowman et al. 2000
+TRI_NYB-THE_ABY	Andriyashev 1954
+TRI_NYB-THE_ABY	Ottensen 2004
+TRI_NYB-THE_LIB	Andriyashev 1954
+TRI_NYB-THE_LIB	Ottensen 2004
+TRI_PIN-ASC_G_SP	Atkinson & Percy 1991
+TRI_PIN-CAL_GLA	Atkinson & Percy 1992
+TRI_PIN-CAL_GLA	Atkinson & Percy 1991
+TRI_PIN-CAL_HYP	Atkinson & Percy 1991
+TRI_PIN-LIM_HEL	Atkinson & Percy 1992
+TRI_PIN-POL_IND	Atkinson & Percy 1991
+TRI_PIN-POLY_IND	Briskina 1939
+TRI_PIN-SAG_SPP	Atkinson & Percy 1991
+TRI_PIN-THE_LIB	Atkinson & Percy 1991
+TRI_PIN-THY_INE	Atkinson & Percy 1991
+ULC_OLR-GAM_IND	Atkinson & Percy 1992
+ULC_OLR-MAC_SP	Atkinson & Percy 1992
+ULC_OLR-OST_IND	Pethon 1994
+URA_LIN-DET_IND	WoRMS
+URI_AAL-AMM_SPP	Bugge et al. 2011
+URI_AAL-CLU_HAR	Bugge et al. 2011
+URI_AAL-GAD_MOR	Bugge et al. 2011
+URI_AAL-GON_FAB	Bugge et al. 2011
+URI_AAL-MAL_VIL	Bugge et al. 2011
+URI_AAL-MEL_AEG	Bugge et al. 2011
+URI_AAL-POL_VIR	Barrett et al. 2002
+URI_LOM-AMM_SPP	Erikstad 1990
+URI_LOM-BOR_SAI	Erikstad 1990
+URI_LOM-MAL_VIL	Dolgov 2002
+URI_LOM-SEB_SPP	Erikstad 1990
+URS_MAR-DEL_LEU	Thiemann et al. 2008
+URS_MAR-ERI_BAR	Thiemann et al. 2008
+URS_MAR-ODO_ROS	Thiemann et al. 2008
+URS_MAR-PAG_GRO	Thiemann et al. 2008
+URS_MAR-PHO_HIS	Thiemann et al. 2008
