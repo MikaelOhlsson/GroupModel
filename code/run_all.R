@@ -7,14 +7,21 @@ install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr",
 # Also, the Group Model code is downloaded and run separately, 
 # but our result files are also included (see step 3).
 
+# 0. We currently include the food web data from Kortsch et al. (2018),
+#    split into four txt-files.
+#    For the released version we will simply refer to Dryad for the data:
+#    Data from: Food-web structure varies along environmental gradients in a high-latitude marine ecosystem, 
+#    Dryad, Dataset, https://doi.org/10.5061/dryad.k04q2kd
+
+
 # 1. Modify the data files regarding Sebastes spp. which lacks interactions in 14 of the 25 subregions.
   source("seb_mod.R")
   #new edgelist created, ../data/kortsch/PairwiseList_seb.txt
 
-# 2. Create subregion foodwebs from the modified edgelists.
+# 2. Create subregion foodwebs (adjacency matrices) from the modified edgelist.
   source("makesubnets.R")
-  #Adjacency matrix files added to ../data/sebwebs/ for group model usage
-  #Adjacency matrix files added to ../data/sebwebs_with_names/ for other usage linked to species identity
+  #Adjacency matrix files added to ../data/webs/ for group model usage
+  #Adjacency matrix files added to ../data/webs_with_names/ for other usage linked to species identity
 
 # 3. Run the group model for each network
 # Source code for the group model is available from 
@@ -31,10 +38,10 @@ install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr",
 # 
 #    Using the group model from Michalska-Smith et al. 2018, the command line for executing the script 
 #    with the metaweb as an example would be:
-#    ./FindGroups 233 ../data/sebwebs/fullnet.txt 123456 300000 20 21 0
+#    ./FindGroups 233 ../data/webs/fullnet.txt 123456 300000 20 21 0
 #    where 
       # 233 = number of species in the web to be analysed, 
-      # ../data/sebwebs/fullnet.txt = path to the adjacency matrix
+      # ../data/webs/fullnet.txt = relative path to the adjacency matrix
       # 123456 = randomly generated six-digit random seed (randomised for each repeated run)
       # 300000 = MCMC steps
       # 20 = MCMC chains
@@ -62,21 +69,26 @@ install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr",
 # 7. Calculate the species-wise group turnover
   source("specieswise.R")
   g_df #Turnover column added for each species (per subregion/metaweb)
+  
+# 8. Determine trophic positions of the species in each subregion
+  #  Includes primary (producer), herbivore, predator and top predator  
+  source("trophic_position.R")
+  g_df #Trophic position added to TRO_POS column
 
-# 8. Test for spatial autocorrelation
+# 9. Test for spatial autocorrelation
   source("spatial.R")
   c_J #Plot with spatial autocorrelation for Jaccard distance
   col #Plot with spatial autocorrelation for species overlap
 
-# 9. Test for environmental correlation
+# 10. Test for environmental correlation
   source("environmental.R")
 
-# 10. UMAP + HDBSCAN clustering of subregions based on Jaccard distance
+# 11. UMAP + HDBSCAN clustering of subregions based on Jaccard distance
 #     --Note that this will also require the python package "umap-learn"!
   source("umap_opti_j.R")
   jd_topclusters$c_clusters #Dataframe with subregions and their respective cluster memberships 
   
-# 11. UMAP + HDBSCAN clustering of subregions based on Species overlap
+# 12. UMAP + HDBSCAN clustering of subregions based on Species overlap
 #     --Note that this will also require the python package "umap-learn"!
   source("umap_opti_ol.R")
   ol_topclusters$c_clusters #Dataframe with subregions and their respective cluster memberships 

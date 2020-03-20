@@ -2,7 +2,7 @@
 
  Includes code and data used for the analyses in Ohlsson & Eklöf.
  
- Original data set from Kortsch *et al.* 2018 (Ecography, https://doi.org/10.5061/dryad.k04q2kd) is included in `data/kortsch/`
+ The original data set from Kortsch *et al.* 2018 (Ecography, https://doi.org/10.5061/dryad.k04q2kd) is included in `data/kortsch/`
  
  Summarised GIS-data including environmental data from Kortsch *et al.* 2018 (Ecography) is included in `data/gis/`
 
