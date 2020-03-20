@@ -40,11 +40,11 @@ saveRDS(net, file="../data/graphs_seb.rds")
 #Adjacency matrices with names
 for(i in 1:length(net)){
   x <- as.matrix(get.adjacency(net[[i]]))
-  write.table(x, file=paste0("../data/sebwebs_with_names/", ifelse(i==1, "fullnet", subnames[i]),".txt"), row.names = T, col.names = NA, quote = F)
+  write.table(x, file=paste0("../data/webs_with_names/", ifelse(i==1, "fullnet", subnames[i]),".txt"), row.names = T, col.names = NA, quote = F)
 }
 
 #Adjacency matrices without names (required for the group model code)
 for(i in 1:length(net)){
   x <- as.matrix(get.adjacency(net[[i]]))
-  write.table(x, file=paste0("../data/sebwebs/", ifelse(i==1, "fullnet", subnames[i]),".txt"), row.names = F, col.names = F, quote = F)
+  write.table(x, file=paste0("../data/webs/", ifelse(i==1, "fullnet", subnames[i]),".txt"), row.names = F, col.names = F, quote = F)
 }
