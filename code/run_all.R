@@ -8,7 +8,7 @@ install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr",
 # but our result files are also included (see step 3).
 
 # 0. We currently include the food web data from Kortsch et al. (2018),
-#    split into four txt-files.
+#    split into three txt-files.
 #    For the released version we will simply refer to Dryad for the data:
 #    Data from: Food-web structure varies along environmental gradients in a high-latitude marine ecosystem, 
 #    Dryad, Dataset, https://doi.org/10.5061/dryad.k04q2kd
