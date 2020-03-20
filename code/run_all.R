@@ -78,17 +78,18 @@ install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr",
 # 9. Test for spatial autocorrelation
   source("spatial.R")
   c_J #Plot with spatial autocorrelation for Jaccard distance
-  col #Plot with spatial autocorrelation for species overlap
+  c_ol #Plot with spatial autocorrelation for species overlap
 
 # 10. Test for environmental correlation
   source("environmental.R")
-
-# 11. UMAP + HDBSCAN clustering of subregions based on Jaccard distance
+  env_anova # Result of the PERMANOVA, testing group structure variation versus water column temperature and mean ocean depth 
+  
+# 11. UMAP + HDBSCAN clustering of subregions based on Jaccard distance (iterations set to 1000)
 #     --Note that this will also require the python package "umap-learn"!
   source("umap_opti_j.R")
   jd_topclusters$c_clusters #Dataframe with subregions and their respective cluster memberships 
   
-# 12. UMAP + HDBSCAN clustering of subregions based on Species overlap
+# 12. UMAP + HDBSCAN clustering of subregions based on Species overlap (iterations set to 1000)
 #     --Note that this will also require the python package "umap-learn"!
   source("umap_opti_ol.R")
   ol_topclusters$c_clusters #Dataframe with subregions and their respective cluster memberships 
