@@ -8,6 +8,9 @@ splist <- data_frame(ABBREVIATION=splist$ABBREVIATION, TROPHOSPECIES=splist$TROP
 
 #Subregion network df
 subr <- read_delim("../data/kortsch/SubregionSpecies.txt", delim = "\t", col_names = F)
+subr[1,202] <- "SEB_SPP" #Typo fix
+write.table(subr, "../data/kortsch/SubregionSpecies.txt", row.names = F, col.names=F, sep = "\t", quote = F)
+
 
 #Create new edge lists for each network...
 net <- list()

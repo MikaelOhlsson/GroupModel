@@ -67,6 +67,7 @@ lowest <- str_sort(results[str_detect(pattern="full", string = results) == TRUE]
 # Subnet groupings 
 # File lists (webs and results) are not ordered as the original sub region list (subr[,1]), so it takes some extra matching of strings first
 for(i in 2:nrow(subr)) {
+  print(i)
   lowest <- NA
   w <- str_which(pattern=as.character(paste0("^",subr[i,1])), string=str_replace_all(webs, "sub", "")) #Which webs object corresponds to the current subregion
   lowest <- str_sort(results[str_detect(pattern=webs[[w]], string = results) == TRUE], decreasing = FALSE)[1] #Picks the grouping with best marginal
@@ -84,7 +85,7 @@ for(i in 2:nrow(subr)) {
 }
 setwd("../../code")
 #Adding taxonomy
-tax <- read_delim("../data/kortsch/SpeciesList_rev.txt", delim="\t")
+tax <- read_delim("../data/kortsch/SpeciesList.txt", delim="\t")
 colnames(g_df)[1] <- "ABBREVIATION"
 
 g_df <- left_join(g_df, tax[,1:6], by="ABBREVIATION")

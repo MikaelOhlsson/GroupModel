@@ -1,10 +1,26 @@
 library(tidyverse)
+library(xlsx)
+
+#Extract separate .txt files from Kortsch foodwebs.xlsx
+
+#SpeciesList_Kortsch.txt
+read.xlsx("../data/kortsch/foodwebs.xlsx", 2, header = T) %>%
+  write.table(file="../data/kortsch/SpeciesList_Kortsch.txt", row.names = F, sep = "\t", quote = F)
+
+#SubregionSpecies.txt
+read.xlsx("../data/kortsch/foodwebs.xlsx", 3) %>% 
+  write.table(file="../data/kortsch/SubregionSpecies.txt", row.names = F, sep = "\t", quote = F)
+
+#PairWiseList_Kortsch.txt
+read.xlsx("../data/kortsch/foodwebs.xlsx", 4, header = T) %>% 
+  write.table(file="../data/kortsch/PairWiseList_Kortsch.txt", row.names = F, sep = "\t", quote = F)
+
 #Fix Sebastes spp.
 #As it lacks prey species in 14 of the 25 sub regions, it counts as primary producer in those.
 #Hence, we add the interactions from all Sebastes species to Sebastes spp.
 
 #######
-#Merge the Seb species to SEB_SPP
+#Merge the Seb species to SEB_SP
 subr <- read_delim("../data/kortsch/SubregionSpecies.txt", delim = "\t", col_names = F)
 subnames <- subr$X1 %>% #List of metaweb + all sub regions
   paste0("sub",.)

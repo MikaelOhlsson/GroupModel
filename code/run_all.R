@@ -2,17 +2,21 @@
 
 # Required R packages
 install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr", 
-                   "reshape2", "stringr", "tidyverse", "umap", "vegan"))
+                   "reshape2", "stringr", "tidyverse", "umap", "vegan", "xlsx"))
 # Additionally, the python package "umap-learn" is required for steps 10-11
 # Also, the Group Model code is downloaded and run separately, 
 # but our result files are also included (see step 3).
 
-# 0. We currently include the food web data from Kortsch et al. (2018),
-#    split into four txt-files.
-#    For the released version we will simply refer to Dryad for the data:
-#    Data from: Food-web structure varies along environmental gradients in a high-latitude marine ecosystem, 
-#    Dryad, Dataset, https://doi.org/10.5061/dryad.k04q2kd
-
+# 0. Download the two required food-web data files from their original sources.
+##    - Food-web data (foodwebs.xlsx) from Kortsch et al. (2018)
+##    Data from: Food-web structure varies along environmental gradients in a high-latitude marine ecosystem, 
+##    Dryad, Dataset, https://doi.org/10.5061/dryad.k04q2kd
+##
+##    - Taxonomy data (REVISED version of SpeciesList.txt, August 2015. 18.37 kB) from Planque et al. 2016 (Wiley Collection)
+## Data from: Planque, Benjamin; Primicerio, Raul; Michalsen, Kathrine; Aschan, Michaela; Certain, Grégoire; Dalpadado, Padmini; et al. (2016): Who eats whom in the Barents Sea: a food web topology from plankton to whales. Wiley. Collection. 
+##    https://doi.org/10.6084/m9.figshare.c.3306768.v1
+## 
+#### Both these files are to be placed in "data/kortsch/"
 
 # 1. Modify the data files regarding Sebastes spp. which lacks interactions in 14 of the 25 subregions.
   source("seb_mod.R")
@@ -78,10 +82,11 @@ install.packages(c("cheddar", "dbscan", "doMC", "igraph", "NetIndices", "readr",
 # 9. Test for spatial autocorrelation
   source("spatial.R")
   c_J #Plot with spatial autocorrelation for Jaccard distance
-  col #Plot with spatial autocorrelation for species overlap
+  c_ol #Plot with spatial autocorrelation for species overlap
 
 # 10. Test for environmental correlation
   source("environmental.R")
+  env_anova #Result of permanova
 
 # 11. UMAP + HDBSCAN clustering of subregions based on Jaccard distance
 #     --Note that this will also require the python package "umap-learn"!
