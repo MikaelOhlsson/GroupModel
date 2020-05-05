@@ -94,4 +94,4 @@ ol_topclusters <- ClusterOptimization(Iterations=it,
                                    Unclustered=uncl) 
 
 
-saveRDS(ol_topclusters, paste0("../results/data/clustering/clusteropti_",it,"i_",clu,"c_", uncl,"u_ol.rds"))
+#saveRDS(ol_topclusters, paste0("../results/data/clustering/clusteropti_",it,"i_",clu,"c_", uncl,"u_ol.rds"))

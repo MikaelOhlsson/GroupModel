@@ -1,9 +1,8 @@
+# Determine the trophic position of the species based on predators/prey, 
+# including primary producers, herbivores, predators and top predators. 
 
 pwl <- read_delim("../data/kortsch/PairwiseList_seb.txt", delim = " ", col_names = T)
 
-for(i in distinct(pwl[,1])) {
-  print(i)
-}
 
 predators <- pwl[,1] %>% 
   distinct()
